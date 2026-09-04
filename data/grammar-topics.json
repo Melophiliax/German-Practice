@@ -1,0 +1,129 @@
+{
+  "topics": [
+    {
+      "id": "articles-nouns",
+      "name": "Nouns & Articles",
+      "level": "A1",
+      "shape": "circle",
+      "description": "Der, die, das — and how they change across the four cases.",
+      "cases": ["Nominativ", "Akkusativ", "Dativ", "Genitiv"],
+      "exercises": [
+        { "id": "an1", "case": "Nominativ", "prompt": "___ Mann liest ein Buch.", "options": ["Der", "Den", "Dem", "Des"], "answer": "Der", "explanation": "Subject of the sentence → Nominativ: der Mann." },
+        { "id": "an2", "case": "Akkusativ", "prompt": "Ich sehe ___ Hund.", "options": ["der", "den", "dem", "des"], "answer": "den", "explanation": "Direct object, masculine → Akkusativ: den Hund." },
+        { "id": "an3", "case": "Dativ", "prompt": "Ich helfe ___ Frau.", "options": ["die", "der", "den", "das"], "answer": "der", "explanation": "helfen + Dativ; feminine dative article is der." },
+        { "id": "an4", "case": "Genitiv", "prompt": "Das ist das Auto ___ Lehrers.", "options": ["der", "des", "dem", "den"], "answer": "des", "explanation": "Possession, masculine → Genitiv: des Lehrers (note -s on noun)." },
+        { "id": "an5", "case": "Nominativ", "prompt": "___ Kind spielt im Garten.", "options": ["Der", "Die", "Das", "Den"], "answer": "Das", "explanation": "'Kind' is neuter → das Kind." },
+        { "id": "an6", "case": "Akkusativ", "prompt": "Wir kaufen ___ Wohnung.", "options": ["die", "der", "den", "dem"], "answer": "die", "explanation": "Feminine nouns keep 'die' in Akkusativ." },
+        { "id": "an7", "case": "Dativ", "prompt": "Er gibt ___ Kindern ein Geschenk.", "options": ["die", "der", "den", "dem"], "answer": "den", "explanation": "Plural Dativ article is always 'den', and the noun gets an -n: Kindern." },
+        { "id": "an8", "case": "Genitiv", "prompt": "Die Farbe ___ Autos gefällt mir.", "options": ["das", "des", "dem", "der"], "answer": "des", "explanation": "Neuter genitive article is 'des', noun adds -s: Autos." }
+      ]
+    },
+    {
+      "id": "pronouns",
+      "name": "Pronouns",
+      "level": "A1",
+      "shape": "square",
+      "description": "Personal and possessive pronouns, and how they decline by case.",
+      "cases": ["Nominativ", "Akkusativ", "Dativ"],
+      "exercises": [
+        { "id": "pr1", "case": "Nominativ", "prompt": "___ bin müde.", "options": ["Ich", "Mich", "Mir", "Mein"], "answer": "Ich", "explanation": "Subject pronoun, 1st person singular." },
+        { "id": "pr2", "case": "Akkusativ", "prompt": "Er sieht ___ nicht.", "options": ["ich", "mich", "mir", "du"], "answer": "mich", "explanation": "Direct object form of 'ich' is 'mich'." },
+        { "id": "pr3", "case": "Dativ", "prompt": "Kannst du ___ helfen?", "options": ["mich", "mir", "ich", "meiner"], "answer": "mir", "explanation": "helfen takes Dativ → mir." },
+        { "id": "pr4", "case": "Akkusativ", "prompt": "Wir besuchen ___ am Wochenende.", "options": ["sie", "ihr", "ihnen", "sich"], "answer": "sie", "explanation": "'sie' (them/her) as direct object stays 'sie' in Akkusativ." },
+        { "id": "pr5", "case": "Dativ", "prompt": "Das Buch gehört ___.", "options": ["ihm", "ihn", "er", "sein"], "answer": "ihm", "explanation": "gehören + Dativ → ihm (to him)." },
+        { "id": "pr6", "case": "Nominativ", "prompt": "___ seid heute spät dran.", "options": ["Ihr", "Euch", "Sie", "Dich"], "answer": "Ihr", "explanation": "2nd person plural subject pronoun." }
+      ]
+    },
+    {
+      "id": "separable-verbs",
+      "name": "Separable Verbs (Trennbare Verben)",
+      "level": "A2",
+      "shape": "triangle",
+      "description": "Verbs like 'anrufen' and 'aufstehen' that split their prefix to the end of the clause.",
+      "cases": [],
+      "exercises": [
+        { "id": "sv1", "prompt": "Ich ___ um 7 Uhr ___. (aufstehen)", "options": ["stehe / auf", "aufstehe / -", "stehe auf / -", "auf / stehe"], "answer": "stehe / auf", "explanation": "aufstehen → ich stehe ... auf (prefix goes to the end)." },
+        { "id": "sv2", "prompt": "Rufst du mich heute Abend ___? (anrufen)", "options": ["an", "auf", "aus", "ein"], "answer": "an", "explanation": "anrufen splits: du rufst ... an." },
+        { "id": "sv3", "prompt": "Der Zug ___ pünktlich ___. (ankommen)", "options": ["kommt / an", "ankommt / -", "kommt an / -", "an / kommt"], "answer": "kommt / an", "explanation": "ankommen → der Zug kommt ... an." },
+        { "id": "sv4", "prompt": "Wir ___ das Fenster ___. (aufmachen)", "options": ["machen / auf", "aufmachen / -", "machen auf / -", "auf / machen"], "answer": "machen / auf", "explanation": "aufmachen → wir machen ... auf." },
+        { "id": "sv5", "prompt": "Sie ___ jeden Tag früh ___. (einkaufen)", "options": ["kauft / ein", "einkauft / -", "kauft ein / -", "ein / kauft"], "answer": "kauft / ein", "explanation": "einkaufen → sie kauft ... ein." },
+        { "id": "sv6", "prompt": "Ich habe das Licht ___. (past participle of ausmachen)", "options": ["ausgemacht", "gemachtaus", "ausgemachen", "gemacht aus"], "answer": "ausgemacht", "explanation": "Separable verbs insert -ge- between prefix and stem in the participle: aus-ge-macht." }
+      ]
+    },
+    {
+      "id": "prepositions",
+      "name": "Prepositions",
+      "level": "A2",
+      "shape": "diamond",
+      "description": "Which case follows which preposition — fixed, two-way, and Genitiv prepositions.",
+      "cases": ["Akkusativ", "Dativ", "Genitiv"],
+      "exercises": [
+        { "id": "pp1", "case": "Akkusativ", "prompt": "Das Geschenk ist für ___ Bruder.", "options": ["dein", "deinen", "deinem", "deines"], "answer": "deinen", "explanation": "'für' always takes Akkusativ." },
+        { "id": "pp2", "case": "Dativ", "prompt": "Ich fahre mit ___ Bus.", "options": ["den", "dem", "der", "des"], "answer": "dem", "explanation": "'mit' always takes Dativ." },
+        { "id": "pp3", "case": "Akkusativ", "prompt": "Die Katze springt auf ___ Tisch. (movement)", "options": ["den", "dem", "der", "des"], "answer": "den", "explanation": "Two-way preposition 'auf' + motion/direction → Akkusativ." },
+        { "id": "pp4", "case": "Dativ", "prompt": "Die Katze schläft auf ___ Tisch. (location)", "options": ["den", "dem", "der", "des"], "answer": "dem", "explanation": "Two-way preposition 'auf' + fixed location → Dativ." },
+        { "id": "pp5", "case": "Genitiv", "prompt": "Trotz ___ Regens gehen wir spazieren.", "options": ["der", "des", "dem", "den"], "answer": "des", "explanation": "'trotz' typically takes Genitiv." },
+        { "id": "pp6", "case": "Dativ", "prompt": "Wir wohnen seit ___ Jahr in Berlin.", "options": ["ein", "einen", "einem", "eines"], "answer": "einem", "explanation": "'seit' always takes Dativ." },
+        { "id": "pp7", "case": "Akkusativ", "prompt": "Ohne ___ Regenschirm wird es nass.", "options": ["ein", "einen", "einem", "eines"], "answer": "einen", "explanation": "'ohne' always takes Akkusativ." }
+      ]
+    },
+    {
+      "id": "word-order",
+      "name": "Word Order",
+      "level": "B1",
+      "shape": "square",
+      "description": "Verb-second rule, subordinate clause order, and TeKaMoLo.",
+      "cases": [],
+      "exercises": [
+        { "id": "wo1", "prompt": "Choose the correct order: 'Heute ___ ich ins Kino.' (gehen)", "options": ["ich gehe", "gehe ich", "ich gehen", "gehen ich"], "answer": "gehe ich", "explanation": "Verb-second rule: when a time expression starts the sentence, the verb still comes 2nd, so subject inverts: Heute gehe ich..." },
+        { "id": "wo2", "prompt": "Ich weiß, dass er heute spät ___. (kommen)", "options": ["kommt", "kommt spät", "spät kommt", "kommen tut"], "answer": "kommt", "explanation": "In subordinate clauses (after 'dass'), the conjugated verb moves to the end." },
+        { "id": "wo3", "prompt": "Correct TeKaMoLo order: Ich fahre ___.", "options": ["morgen mit dem Zug nach Berlin", "nach Berlin morgen mit dem Zug", "mit dem Zug nach Berlin morgen", "mit dem Zug morgen nach Berlin"], "answer": "morgen mit dem Zug nach Berlin", "explanation": "Time – Manner(Kausal/Modal) – Place: morgen (time) mit dem Zug (manner) nach Berlin (place)." },
+        { "id": "wo4", "prompt": "Weil es regnet, ___ wir zu Hause. (bleiben)", "options": ["bleiben", "wir bleiben", "bleiben wir", "wir werden bleiben"], "answer": "bleiben", "explanation": "Subordinate clause ends with the verb: ...regnet, bleiben wir zu Hause — verb goes to the very end of the 'weil' clause." },
+        { "id": "wo5", "prompt": "Choose the correct main clause after the subordinate clause: 'Wenn ich Zeit habe, ___.'", "options": ["ich rufe dich an", "rufe ich dich an", "ich anrufe dich", "anrufe ich dich"], "answer": "rufe ich dich an", "explanation": "After a subordinate clause, the main clause verb comes first (position 2 overall) → inversion: rufe ich dich an." }
+      ]
+    },
+    {
+      "id": "adjective-endings",
+      "name": "Adjective Endings",
+      "level": "B1",
+      "shape": "circle",
+      "description": "Weak, mixed, and strong declension endings across all four cases.",
+      "cases": ["Nominativ", "Akkusativ", "Dativ", "Genitiv"],
+      "exercises": [
+        { "id": "ae1", "case": "Nominativ", "prompt": "Der klein___ Hund bellt.", "options": ["e", "en", "em", "es"], "answer": "e", "explanation": "Weak declension after 'der' in Nominativ masculine: -e." },
+        { "id": "ae2", "case": "Akkusativ", "prompt": "Ich kaufe einen rot___ Apfel.", "options": ["e", "en", "em", "es"], "answer": "en", "explanation": "Mixed declension after 'einen' (masc. Akkusativ): -en." },
+        { "id": "ae3", "case": "Dativ", "prompt": "Mit einem gut___ Freund reise ich gern.", "options": ["e", "en", "em", "es"], "answer": "en", "explanation": "All Dativ adjective endings are -en (mixed & strong)." },
+        { "id": "ae4", "case": "Nominativ", "prompt": "Frisch___ Brot schmeckt gut. (no article)", "options": ["e", "es", "em", "en"], "answer": "es", "explanation": "Strong declension, no article, neuter Nominativ: -es." },
+        { "id": "ae5", "case": "Genitiv", "prompt": "Die Farbe des neu___ Autos gefällt mir.", "options": ["e", "en", "em", "es"], "answer": "en", "explanation": "Genitiv adjective endings after a definite article are always -en." }
+      ]
+    },
+    {
+      "id": "konjunktiv-ii",
+      "name": "Konjunktiv II (Subjunctive)",
+      "level": "B2",
+      "shape": "triangle",
+      "description": "Hypotheticals, polite requests, and unreal conditions.",
+      "cases": [],
+      "exercises": [
+        { "id": "k1", "prompt": "Wenn ich Zeit ___, würde ich mitkommen.", "options": ["habe", "hätte", "hatte", "haben"], "answer": "hätte", "explanation": "Unreal condition uses Konjunktiv II: hätte (would have)." },
+        { "id": "k2", "prompt": "___ Sie mir bitte helfen?", "options": ["Können", "Könnten", "Konnten", "Kannten"], "answer": "Könnten", "explanation": "Polite request → Konjunktiv II of können: könnten." },
+        { "id": "k3", "prompt": "An deiner Stelle ___ ich das nicht tun.", "options": ["würde", "werde", "wurde", "war"], "answer": "würde", "explanation": "Giving hypothetical advice uses würde + infinitive." },
+        { "id": "k4", "prompt": "Wenn er mehr gelernt ___, hätte er die Prüfung bestanden.", "options": ["hat", "hätte", "habe", "haben würde"], "answer": "hätte", "explanation": "Past unreal condition (Konjunktiv II Vergangenheit): hätte + Partizip II." }
+      ]
+    },
+    {
+      "id": "relative-clauses",
+      "name": "Relative Clauses",
+      "level": "B2",
+      "shape": "diamond",
+      "description": "Connecting ideas with der/die/das as relative pronouns across cases.",
+      "cases": ["Nominativ", "Akkusativ", "Dativ", "Genitiv"],
+      "exercises": [
+        { "id": "rc1", "case": "Nominativ", "prompt": "Der Mann, ___ dort steht, ist mein Onkel.", "options": ["der", "den", "dem", "dessen"], "answer": "der", "explanation": "The relative pronoun is the subject of its own clause → Nominativ: der." },
+        { "id": "rc2", "case": "Akkusativ", "prompt": "Das Buch, ___ ich lese, ist spannend.", "options": ["das", "dem", "dessen", "der"], "answer": "das", "explanation": "Direct object of 'lese', neuter → Akkusativ: das." },
+        { "id": "rc3", "case": "Dativ", "prompt": "Die Frau, ___ ich geholfen habe, ist Ärztin.", "options": ["die", "der", "deren", "das"], "answer": "der", "explanation": "helfen + Dativ, feminine → der." },
+        { "id": "rc4", "case": "Genitiv", "prompt": "Der Schüler, ___ Buch verloren ging, war traurig.", "options": ["der", "dem", "dessen", "den"], "answer": "dessen", "explanation": "Possessive relative pronoun (masculine) → dessen (whose)." }
+      ]
+    }
+  ]
+}
