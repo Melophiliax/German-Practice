@@ -1,0 +1,82 @@
+{
+ "id": "ex_lesen2",
+ "level": "Prüfung",
+ "title": "Goethe Lesen Teil 2: Zeitungstexte (a/b/c)",
+ "explanation": "Zwei Texte, je drei Multiple-Choice-Fragen. Die Lösung steht meist umformuliert im Text – nicht Wort für Wort.",
+ "minutes": 15,
+ "ordered": true,
+ "questions": [
+  {
+   "type": "mc",
+   "q": "Wie meldet man sich bei den Leihrädern an?",
+   "options": [
+    "mit einer App",
+    "am Schalter",
+    "per Telefon"
+   ],
+   "answer": "mit einer App",
+   "explain": "",
+   "passage": "In vielen Städten gibt es inzwischen Leihräder. Man meldet sich mit einer App an und kann das Fahrrad an jeder Station abholen. Die ersten 30 Minuten sind kostenlos, danach kostet jede weitere halbe Stunde einen Euro. Besonders Pendler nutzen das Angebot, weil sie so schneller zur Arbeit kommen als mit dem Auto im Stau. Kritiker bemängeln allerdings, dass viele Räder falsch geparkt werden und Gehwege blockieren."
+  },
+  {
+   "type": "mc",
+   "q": "Was kostet die Nutzung?",
+   "options": [
+    "Die ersten 30 Minuten sind gratis.",
+    "Jede Fahrt kostet einen Euro.",
+    "Es gibt nur ein Monatsabo."
+   ],
+   "answer": "Die ersten 30 Minuten sind gratis.",
+   "explain": "",
+   "passage": "In vielen Städten gibt es inzwischen Leihräder. Man meldet sich mit einer App an und kann das Fahrrad an jeder Station abholen. Die ersten 30 Minuten sind kostenlos, danach kostet jede weitere halbe Stunde einen Euro. Besonders Pendler nutzen das Angebot, weil sie so schneller zur Arbeit kommen als mit dem Auto im Stau. Kritiker bemängeln allerdings, dass viele Räder falsch geparkt werden und Gehwege blockieren."
+  },
+  {
+   "type": "mc",
+   "q": "Was kritisieren manche Leute?",
+   "options": [
+    "falsch geparkte Räder",
+    "zu hohe Preise",
+    "zu wenige Stationen"
+   ],
+   "answer": "falsch geparkte Räder",
+   "explain": "",
+   "passage": "In vielen Städten gibt es inzwischen Leihräder. Man meldet sich mit einer App an und kann das Fahrrad an jeder Station abholen. Die ersten 30 Minuten sind kostenlos, danach kostet jede weitere halbe Stunde einen Euro. Besonders Pendler nutzen das Angebot, weil sie so schneller zur Arbeit kommen als mit dem Auto im Stau. Kritiker bemängeln allerdings, dass viele Räder falsch geparkt werden und Gehwege blockieren."
+  },
+  {
+   "type": "mc",
+   "q": "Was kann man in der Bibliothek neu ausleihen?",
+   "options": [
+    "Spiele, Filme und Werkzeug",
+    "nur Bücher",
+    "Möbel"
+   ],
+   "answer": "Spiele, Filme und Werkzeug",
+   "explain": "",
+   "passage": "Die Stadtbibliothek hat ihr Angebot erweitert. Neben Büchern kann man jetzt auch Spiele, Filme und sogar Werkzeug ausleihen. Der Ausweis kostet für Erwachsene 20 Euro im Jahr, Schüler und Studenten bezahlen nichts. Außerdem gibt es jeden Donnerstag eine kostenlose Sprechstunde, in der Mitarbeiter bei der Suche nach Informationen helfen. Wegen Umbauarbeiten ist die Bibliothek bis Ende März samstags geschlossen."
+  },
+  {
+   "type": "mc",
+   "q": "Wer bezahlt für den Ausweis nichts?",
+   "options": [
+    "Schüler und Studenten",
+    "alle Erwachsenen",
+    "nur Rentner"
+   ],
+   "answer": "Schüler und Studenten",
+   "explain": "",
+   "passage": "Die Stadtbibliothek hat ihr Angebot erweitert. Neben Büchern kann man jetzt auch Spiele, Filme und sogar Werkzeug ausleihen. Der Ausweis kostet für Erwachsene 20 Euro im Jahr, Schüler und Studenten bezahlen nichts. Außerdem gibt es jeden Donnerstag eine kostenlose Sprechstunde, in der Mitarbeiter bei der Suche nach Informationen helfen. Wegen Umbauarbeiten ist die Bibliothek bis Ende März samstags geschlossen."
+  },
+  {
+   "type": "mc",
+   "q": "Wann ist die Bibliothek bis Ende März geschlossen?",
+   "options": [
+    "samstags",
+    "donnerstags",
+    "sonntags"
+   ],
+   "answer": "samstags",
+   "explain": "",
+   "passage": "Die Stadtbibliothek hat ihr Angebot erweitert. Neben Büchern kann man jetzt auch Spiele, Filme und sogar Werkzeug ausleihen. Der Ausweis kostet für Erwachsene 20 Euro im Jahr, Schüler und Studenten bezahlen nichts. Außerdem gibt es jeden Donnerstag eine kostenlose Sprechstunde, in der Mitarbeiter bei der Suche nach Informationen helfen. Wegen Umbauarbeiten ist die Bibliothek bis Ende März samstags geschlossen."
+  }
+ ]
+}

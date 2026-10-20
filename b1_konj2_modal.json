@@ -1,0 +1,68 @@
+{
+ "id": "b1_konj2_modal",
+ "level": "B1",
+ "title": "Konjunktiv II: Rat, Höflichkeit, Wunsch",
+ "explanation": "sollte/könnte/müsste/dürfte, hätte/wäre, würde + Infinitiv. An deiner Stelle würde ich …",
+ "questions": [
+  {
+   "type": "fill",
+   "q": "Du ___ mehr schlafen. (sollen, Rat)",
+   "answer": "solltest",
+   "explain": ""
+  },
+  {
+   "type": "mc",
+   "q": "___ ich das Fenster öffnen? (höflich)",
+   "options": [
+    "Dürfte",
+    "Darf",
+    "Durfte"
+   ],
+   "answer": "Dürfte",
+   "explain": ""
+  },
+  {
+   "type": "mc",
+   "q": "An deiner Stelle ___ ich zum Arzt gehen.",
+   "options": [
+    "würde",
+    "werde",
+    "wurde"
+   ],
+   "answer": "würde",
+   "explain": ""
+  },
+  {
+   "type": "fill",
+   "q": "Ich ___ jetzt gern Urlaub. (haben)",
+   "answer": "hätte",
+   "explain": ""
+  },
+  {
+   "type": "fill",
+   "q": "Wenn er nicht krank ___, würde er kommen. (sein)",
+   "answer": "wäre",
+   "explain": ""
+  },
+  {
+   "type": "translate",
+   "q": "Übersetze: Could you help me?",
+   "answer": [
+    "Könnten Sie mir helfen",
+    "Könntest du mir helfen"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "mc",
+   "q": "Wenn ich du ___, würde ich das Angebot annehmen.",
+   "options": [
+    "wäre",
+    "bin",
+    "war"
+   ],
+   "answer": "wäre",
+   "explain": ""
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "id": "a2_adjektive",
+ "level": "A2",
+ "title": "Adjektivdeklination",
+ "explanation": "Nach ein-/kein- (Nom. m: -er, Nom./Akk. n: -es), Akk. m: -en; nach bestimmtem Artikel: meist -e (Nom. sg., Akk. f/n) sonst -en; Plural -en.",
+ "questions": [
+  {
+   "type": "fill",
+   "q": "Ein gut___ Mann kommt. (nur Endung)",
+   "answer": "er",
+   "explain": ""
+  },
+  {
+   "type": "fill",
+   "q": "Ich sehe einen groß___ Hund. (nur Endung)",
+   "answer": "en",
+   "explain": ""
+  },
+  {
+   "type": "fill",
+   "q": "Das ist ein neu___ Auto. (nur Endung)",
+   "answer": "es",
+   "explain": ""
+  },
+  {
+   "type": "fill",
+   "q": "Die schön___ Blumen. (nur Endung)",
+   "answer": "en",
+   "explain": "Plural nach Artikel: -en."
+  },
+  {
+   "type": "fill",
+   "q": "Ich kaufe das rot___ Kleid. (nur Endung)",
+   "answer": "e",
+   "explain": "Nach der Artikel, Akk. n: -e."
+  },
+  {
+   "type": "fill",
+   "q": "Mit dem alt___ Auto. (nur Endung)",
+   "answer": "en",
+   "explain": "Dativ: -en."
+  }
+ ]
+}

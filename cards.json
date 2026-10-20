@@ -1,0 +1,1043 @@
+[
+{
+"cat": "Essen",
+"art": "der",
+"de": "Apfel",
+"pl": "Äpfel",
+"en": "apple",
+"emoji": "🍎"
+},
+{
+"cat": "Essen",
+"art": "die",
+"de": "Banane",
+"pl": "Bananen",
+"en": "banana",
+"emoji": "🍌",
+"wiki": "Bananen"
+},
+{
+"cat": "Essen",
+"art": "das",
+"de": "Brot",
+"pl": "Brote",
+"en": "bread",
+"emoji": "🍞"
+},
+{
+"cat": "Essen",
+"art": "der",
+"de": "Käse",
+"pl": "",
+"en": "cheese",
+"emoji": "🧀"
+},
+{
+"cat": "Essen",
+"art": "das",
+"de": "Ei",
+"pl": "Eier",
+"en": "egg",
+"emoji": "🥚",
+"wiki": "Hühnerei"
+},
+{
+"cat": "Essen",
+"art": "die",
+"de": "Milch",
+"pl": "",
+"en": "milk",
+"emoji": "🥛"
+},
+{
+"cat": "Essen",
+"art": "das",
+"de": "Wasser",
+"pl": "",
+"en": "water",
+"emoji": "💧"
+},
+{
+"cat": "Essen",
+"art": "der",
+"de": "Kaffee",
+"pl": "",
+"en": "coffee",
+"emoji": "☕"
+},
+{
+"cat": "Essen",
+"art": "die",
+"de": "Tomate",
+"pl": "Tomaten",
+"en": "tomato",
+"emoji": "🍅"
+},
+{
+"cat": "Essen",
+"art": "die",
+"de": "Kartoffel",
+"pl": "Kartoffeln",
+"en": "potato",
+"emoji": "🥔"
+},
+{
+"cat": "Essen",
+"art": "das",
+"de": "Fleisch",
+"pl": "",
+"en": "meat",
+"emoji": "🥩"
+},
+{
+"cat": "Essen",
+"art": "der",
+"de": "Fisch",
+"pl": "Fische",
+"en": "fish",
+"emoji": "🐟",
+"wiki": "Fische"
+},
+{
+"cat": "Essen",
+"art": "die",
+"de": "Suppe",
+"pl": "Suppen",
+"en": "soup",
+"emoji": "🍲"
+},
+{
+"cat": "Essen",
+"art": "der",
+"de": "Kuchen",
+"pl": "Kuchen",
+"en": "cake",
+"emoji": "🍰"
+},
+{
+"cat": "Essen",
+"art": "die",
+"de": "Zwiebel",
+"pl": "Zwiebeln",
+"en": "onion",
+"emoji": "🧅",
+"wiki": "Gemeine Zwiebel"
+},
+{
+"cat": "Haus",
+"art": "der",
+"de": "Stuhl",
+"pl": "Stühle",
+"en": "chair",
+"emoji": "🪑"
+},
+{
+"cat": "Haus",
+"art": "der",
+"de": "Tisch",
+"pl": "Tische",
+"en": "table",
+"emoji": "🔤"
+},
+{
+"cat": "Haus",
+"art": "das",
+"de": "Bett",
+"pl": "Betten",
+"en": "bed",
+"emoji": "🛏️"
+},
+{
+"cat": "Haus",
+"art": "das",
+"de": "Fenster",
+"pl": "Fenster",
+"en": "window",
+"emoji": "🪟"
+},
+{
+"cat": "Haus",
+"art": "die",
+"de": "Tür",
+"pl": "Türen",
+"en": "door",
+"emoji": "🚪"
+},
+{
+"cat": "Haus",
+"art": "die",
+"de": "Lampe",
+"pl": "Lampen",
+"en": "lamp",
+"emoji": "💡",
+"wiki": "-"
+},
+{
+"cat": "Haus",
+"art": "der",
+"de": "Schlüssel",
+"pl": "Schlüssel",
+"en": "key",
+"emoji": "🔑"
+},
+{
+"cat": "Haus",
+"art": "die",
+"de": "Uhr",
+"pl": "Uhren",
+"en": "clock, watch",
+"emoji": "🕐"
+},
+{
+"cat": "Haus",
+"art": "das",
+"de": "Telefon",
+"pl": "Telefone",
+"en": "telephone",
+"emoji": "📞"
+},
+{
+"cat": "Haus",
+"art": "der",
+"de": "Computer",
+"pl": "Computer",
+"en": "computer",
+"emoji": "💻"
+},
+{
+"cat": "Haus",
+"art": "das",
+"de": "Buch",
+"pl": "Bücher",
+"en": "book",
+"emoji": "📖"
+},
+{
+"cat": "Haus",
+"art": "der",
+"de": "Kühlschrank",
+"pl": "Kühlschränke",
+"en": "fridge",
+"emoji": "🧊"
+},
+{
+"cat": "Haus",
+"art": "die",
+"de": "Dusche",
+"pl": "Duschen",
+"en": "shower",
+"emoji": "🚿"
+},
+{
+"cat": "Haus",
+"art": "der",
+"de": "Spiegel",
+"pl": "Spiegel",
+"en": "mirror",
+"emoji": "🪞"
+},
+{
+"cat": "Haus",
+"art": "das",
+"de": "Sofa",
+"pl": "Sofas",
+"en": "sofa",
+"emoji": "🛋️"
+},
+{
+"cat": "Kleidung",
+"art": "die",
+"de": "Jacke",
+"pl": "Jacken",
+"en": "jacket",
+"emoji": "🧥"
+},
+{
+"cat": "Kleidung",
+"art": "die",
+"de": "Hose",
+"pl": "Hosen",
+"en": "trousers",
+"emoji": "👖"
+},
+{
+"cat": "Kleidung",
+"art": "das",
+"de": "Hemd",
+"pl": "Hemden",
+"en": "shirt",
+"emoji": "👔"
+},
+{
+"cat": "Kleidung",
+"art": "das",
+"de": "Kleid",
+"pl": "Kleider",
+"en": "dress",
+"emoji": "👗"
+},
+{
+"cat": "Kleidung",
+"art": "der",
+"de": "Schuh",
+"pl": "Schuhe",
+"en": "shoe",
+"emoji": "👟"
+},
+{
+"cat": "Kleidung",
+"art": "die",
+"de": "Mütze",
+"pl": "Mützen",
+"en": "cap, hat",
+"emoji": "🧢"
+},
+{
+"cat": "Kleidung",
+"art": "die",
+"de": "Brille",
+"pl": "Brillen",
+"en": "glasses",
+"emoji": "👓"
+},
+{
+"cat": "Kleidung",
+"art": "die",
+"de": "Tasche",
+"pl": "Taschen",
+"en": "bag",
+"emoji": "👜"
+},
+{
+"cat": "Kleidung",
+"art": "der",
+"de": "Hut",
+"pl": "Hüte",
+"en": "hat",
+"emoji": "🎩"
+},
+{
+"cat": "Kleidung",
+"art": "die",
+"de": "Socke",
+"pl": "Socken",
+"en": "sock",
+"emoji": "🧦"
+},
+{
+"cat": "Kleidung",
+"art": "der",
+"de": "Schal",
+"pl": "Schals",
+"en": "scarf",
+"emoji": "🧣"
+},
+{
+"cat": "Kleidung",
+"art": "der",
+"de": "Handschuh",
+"pl": "Handschuhe",
+"en": "glove",
+"emoji": "🧤"
+},
+{
+"cat": "Körper",
+"art": "der",
+"de": "Kopf",
+"pl": "Köpfe",
+"en": "head",
+"emoji": "👤"
+},
+{
+"cat": "Körper",
+"art": "die",
+"de": "Hand",
+"pl": "Hände",
+"en": "hand",
+"emoji": "✋"
+},
+{
+"cat": "Körper",
+"art": "das",
+"de": "Auge",
+"pl": "Augen",
+"en": "eye",
+"emoji": "👁️"
+},
+{
+"cat": "Körper",
+"art": "das",
+"de": "Ohr",
+"pl": "Ohren",
+"en": "ear",
+"emoji": "👂"
+},
+{
+"cat": "Körper",
+"art": "die",
+"de": "Nase",
+"pl": "Nasen",
+"en": "nose",
+"emoji": "👃"
+},
+{
+"cat": "Körper",
+"art": "der",
+"de": "Mund",
+"pl": "Münder",
+"en": "mouth",
+"emoji": "👄"
+},
+{
+"cat": "Körper",
+"art": "das",
+"de": "Bein",
+"pl": "Beine",
+"en": "leg",
+"emoji": "🦵"
+},
+{
+"cat": "Körper",
+"art": "der",
+"de": "Fuß",
+"pl": "Füße",
+"en": "foot",
+"emoji": "🦶"
+},
+{
+"cat": "Körper",
+"art": "das",
+"de": "Herz",
+"pl": "Herzen",
+"en": "heart",
+"emoji": "❤️"
+},
+{
+"cat": "Körper",
+"art": "der",
+"de": "Zahn",
+"pl": "Zähne",
+"en": "tooth",
+"emoji": "🦷"
+},
+{
+"cat": "Körper",
+"art": "der",
+"de": "Arm",
+"pl": "Arme",
+"en": "arm",
+"emoji": "💪"
+},
+{
+"cat": "Körper",
+"art": "der",
+"de": "Finger",
+"pl": "Finger",
+"en": "finger",
+"emoji": "👆"
+},
+{
+"cat": "Körper",
+"art": "der",
+"de": "Rücken",
+"pl": "Rücken",
+"en": "back",
+"emoji": "🔤",
+"wiki": "-"
+},
+{
+"cat": "Körper",
+"art": "der",
+"de": "Bauch",
+"pl": "Bäuche",
+"en": "belly, stomach",
+"emoji": "🔤",
+"wiki": "-"
+},
+{
+"cat": "Tiere",
+"art": "der",
+"de": "Hund",
+"pl": "Hunde",
+"en": "dog",
+"emoji": "🐕",
+"wiki": "Haushund"
+},
+{
+"cat": "Tiere",
+"art": "die",
+"de": "Katze",
+"pl": "Katzen",
+"en": "cat",
+"emoji": "🐈",
+"wiki": "Hauskatze"
+},
+{
+"cat": "Tiere",
+"art": "das",
+"de": "Pferd",
+"pl": "Pferde",
+"en": "horse",
+"emoji": "🐴",
+"wiki": "Hauspferd"
+},
+{
+"cat": "Tiere",
+"art": "die",
+"de": "Kuh",
+"pl": "Kühe",
+"en": "cow",
+"emoji": "🐄",
+"wiki": "Hausrind"
+},
+{
+"cat": "Tiere",
+"art": "das",
+"de": "Schwein",
+"pl": "Schweine",
+"en": "pig",
+"emoji": "🐖",
+"wiki": "Hausschwein"
+},
+{
+"cat": "Tiere",
+"art": "der",
+"de": "Vogel",
+"pl": "Vögel",
+"en": "bird",
+"emoji": "🐦",
+"wiki": "Vögel"
+},
+{
+"cat": "Tiere",
+"art": "die",
+"de": "Maus",
+"pl": "Mäuse",
+"en": "mouse",
+"emoji": "🐭",
+"wiki": "Hausmaus"
+},
+{
+"cat": "Tiere",
+"art": "der",
+"de": "Elefant",
+"pl": "Elefanten",
+"en": "elephant",
+"emoji": "🐘",
+"wiki": "Elefanten"
+},
+{
+"cat": "Tiere",
+"art": "der",
+"de": "Löwe",
+"pl": "Löwen",
+"en": "lion",
+"emoji": "🦁",
+"wiki": "Löwe"
+},
+{
+"cat": "Tiere",
+"art": "der",
+"de": "Bär",
+"pl": "Bären",
+"en": "bear",
+"emoji": "🐻",
+"wiki": "Bären"
+},
+{
+"cat": "Tiere",
+"art": "das",
+"de": "Schaf",
+"pl": "Schafe",
+"en": "sheep",
+"emoji": "🐑",
+"wiki": "Hausschaf"
+},
+{
+"cat": "Tiere",
+"art": "die",
+"de": "Ente",
+"pl": "Enten",
+"en": "duck",
+"emoji": "🦆",
+"wiki": "Enten"
+},
+{
+"cat": "Tiere",
+"art": "das",
+"de": "Huhn",
+"pl": "Hühner",
+"en": "chicken",
+"emoji": "🐔",
+"wiki": "Haushuhn"
+},
+{
+"cat": "Tiere",
+"art": "der",
+"de": "Affe",
+"pl": "Affen",
+"en": "monkey",
+"emoji": "🐒",
+"wiki": "Affen"
+},
+{
+"cat": "Tiere",
+"art": "die",
+"de": "Biene",
+"pl": "Bienen",
+"en": "bee",
+"emoji": "🐝",
+"wiki": "Honigbiene"
+},
+{
+"cat": "Tiere",
+"art": "der",
+"de": "Schmetterling",
+"pl": "Schmetterlinge",
+"en": "butterfly",
+"emoji": "🦋",
+"wiki": "Schmetterlinge"
+},
+{
+"cat": "Tiere",
+"art": "die",
+"de": "Schlange",
+"pl": "Schlangen",
+"en": "snake",
+"emoji": "🐍",
+"wiki": "Schlangen"
+},
+{
+"cat": "Tiere",
+"art": "der",
+"de": "Hase",
+"pl": "Hasen",
+"en": "hare",
+"emoji": "🐇",
+"wiki": "Feldhase"
+},
+{
+"cat": "Stadt & Verkehr",
+"art": "das",
+"de": "Auto",
+"pl": "Autos",
+"en": "car",
+"emoji": "🚗"
+},
+{
+"cat": "Stadt & Verkehr",
+"art": "der",
+"de": "Bus",
+"pl": "Busse",
+"en": "bus",
+"emoji": "🚌",
+"wiki": "Omnibus"
+},
+{
+"cat": "Stadt & Verkehr",
+"art": "der",
+"de": "Zug",
+"pl": "Züge",
+"en": "train",
+"emoji": "🚆",
+"wiki": "Eisenbahnzug"
+},
+{
+"cat": "Stadt & Verkehr",
+"art": "das",
+"de": "Fahrrad",
+"pl": "Fahrräder",
+"en": "bicycle",
+"emoji": "🚲"
+},
+{
+"cat": "Stadt & Verkehr",
+"art": "das",
+"de": "Flugzeug",
+"pl": "Flugzeuge",
+"en": "aeroplane",
+"emoji": "✈️"
+},
+{
+"cat": "Stadt & Verkehr",
+"art": "das",
+"de": "Schiff",
+"pl": "Schiffe",
+"en": "ship",
+"emoji": "🚢"
+},
+{
+"cat": "Stadt & Verkehr",
+"art": "die",
+"de": "U-Bahn",
+"pl": "U-Bahnen",
+"en": "underground",
+"emoji": "🚇"
+},
+{
+"cat": "Stadt & Verkehr",
+"art": "die",
+"de": "Straße",
+"pl": "Straßen",
+"en": "street",
+"emoji": "🛣️"
+},
+{
+"cat": "Stadt & Verkehr",
+"art": "die",
+"de": "Brücke",
+"pl": "Brücken",
+"en": "bridge",
+"emoji": "🌉"
+},
+{
+"cat": "Stadt & Verkehr",
+"art": "der",
+"de": "Bahnhof",
+"pl": "Bahnhöfe",
+"en": "station",
+"emoji": "🚉"
+},
+{
+"cat": "Stadt & Verkehr",
+"art": "der",
+"de": "Flughafen",
+"pl": "Flughäfen",
+"en": "airport",
+"emoji": "🛫"
+},
+{
+"cat": "Stadt & Verkehr",
+"art": "die",
+"de": "Ampel",
+"pl": "Ampeln",
+"en": "traffic light",
+"emoji": "🚦",
+"wiki": "Lichtzeichenanlage"
+},
+{
+"cat": "Stadt & Verkehr",
+"art": "die",
+"de": "Kirche",
+"pl": "Kirchen",
+"en": "church",
+"emoji": "⛪",
+"wiki": "Kirchengebäude"
+},
+{
+"cat": "Stadt & Verkehr",
+"art": "das",
+"de": "Krankenhaus",
+"pl": "Krankenhäuser",
+"en": "hospital",
+"emoji": "🏥"
+},
+{
+"cat": "Stadt & Verkehr",
+"art": "die",
+"de": "Schule",
+"pl": "Schulen",
+"en": "school",
+"emoji": "🏫",
+"wiki": "-"
+},
+{
+"cat": "Stadt & Verkehr",
+"art": "die",
+"de": "Bank",
+"pl": "Banken",
+"en": "bank",
+"emoji": "🏦",
+"wiki": "-"
+},
+{
+"cat": "Stadt & Verkehr",
+"art": "der",
+"de": "Supermarkt",
+"pl": "Supermärkte",
+"en": "supermarket",
+"emoji": "🛒"
+},
+{
+"cat": "Stadt & Verkehr",
+"art": "die",
+"de": "Apotheke",
+"pl": "Apotheken",
+"en": "pharmacy",
+"emoji": "💊"
+},
+{
+"cat": "Stadt & Verkehr",
+"art": "das",
+"de": "Hotel",
+"pl": "Hotels",
+"en": "hotel",
+"emoji": "🏨"
+},
+{
+"cat": "Stadt & Verkehr",
+"art": "das",
+"de": "Rathaus",
+"pl": "Rathäuser",
+"en": "town hall",
+"emoji": "🏛️"
+},
+{
+"cat": "Natur & Wetter",
+"art": "der",
+"de": "Baum",
+"pl": "Bäume",
+"en": "tree",
+"emoji": "🌳"
+},
+{
+"cat": "Natur & Wetter",
+"art": "die",
+"de": "Blume",
+"pl": "Blumen",
+"en": "flower",
+"emoji": "🌸"
+},
+{
+"cat": "Natur & Wetter",
+"art": "die",
+"de": "Sonne",
+"pl": "Sonnen",
+"en": "sun",
+"emoji": "☀️"
+},
+{
+"cat": "Natur & Wetter",
+"art": "der",
+"de": "Mond",
+"pl": "Monde",
+"en": "moon",
+"emoji": "🌙"
+},
+{
+"cat": "Natur & Wetter",
+"art": "der",
+"de": "Stern",
+"pl": "Sterne",
+"en": "star",
+"emoji": "⭐"
+},
+{
+"cat": "Natur & Wetter",
+"art": "der",
+"de": "Regen",
+"pl": "",
+"en": "rain",
+"emoji": "🌧️"
+},
+{
+"cat": "Natur & Wetter",
+"art": "der",
+"de": "Schnee",
+"pl": "",
+"en": "snow",
+"emoji": "❄️"
+},
+{
+"cat": "Natur & Wetter",
+"art": "der",
+"de": "Berg",
+"pl": "Berge",
+"en": "mountain",
+"emoji": "⛰️"
+},
+{
+"cat": "Natur & Wetter",
+"art": "das",
+"de": "Meer",
+"pl": "Meere",
+"en": "sea",
+"emoji": "🌊"
+},
+{
+"cat": "Natur & Wetter",
+"art": "der",
+"de": "See",
+"pl": "Seen",
+"en": "lake",
+"emoji": "🏞️",
+"wiki": "See (Gewässer)"
+},
+{
+"cat": "Natur & Wetter",
+"art": "die",
+"de": "Wolke",
+"pl": "Wolken",
+"en": "cloud",
+"emoji": "☁️"
+},
+{
+"cat": "Natur & Wetter",
+"art": "der",
+"de": "Wind",
+"pl": "Winde",
+"en": "wind",
+"emoji": "💨"
+},
+{
+"cat": "Natur & Wetter",
+"art": "das",
+"de": "Feuer",
+"pl": "Feuer",
+"en": "fire",
+"emoji": "🔥"
+},
+{
+"cat": "Natur & Wetter",
+"art": "der",
+"de": "Regenbogen",
+"pl": "Regenbögen",
+"en": "rainbow",
+"emoji": "🌈"
+},
+{
+"cat": "Alltag & Schule",
+"art": "der",
+"de": "Stift",
+"pl": "Stifte",
+"en": "pen, pencil",
+"emoji": "✏️",
+"wiki": "-"
+},
+{
+"cat": "Alltag & Schule",
+"art": "das",
+"de": "Heft",
+"pl": "Hefte",
+"en": "exercise book",
+"emoji": "📓",
+"wiki": "-"
+},
+{
+"cat": "Alltag & Schule",
+"art": "der",
+"de": "Rucksack",
+"pl": "Rucksäcke",
+"en": "backpack",
+"emoji": "🎒"
+},
+{
+"cat": "Alltag & Schule",
+"art": "die",
+"de": "Schere",
+"pl": "Scheren",
+"en": "scissors",
+"emoji": "✂️"
+},
+{
+"cat": "Alltag & Schule",
+"art": "das",
+"de": "Papier",
+"pl": "Papiere",
+"en": "paper",
+"emoji": "📄"
+},
+{
+"cat": "Alltag & Schule",
+"art": "der",
+"de": "Brief",
+"pl": "Briefe",
+"en": "letter",
+"emoji": "✉️"
+},
+{
+"cat": "Alltag & Schule",
+"art": "das",
+"de": "Handy",
+"pl": "Handys",
+"en": "mobile phone",
+"emoji": "📱",
+"wiki": "Mobiltelefon"
+},
+{
+"cat": "Alltag & Schule",
+"art": "die",
+"de": "Kamera",
+"pl": "Kameras",
+"en": "camera",
+"emoji": "📷"
+},
+{
+"cat": "Alltag & Schule",
+"art": "der",
+"de": "Koffer",
+"pl": "Koffer",
+"en": "suitcase",
+"emoji": "🧳"
+},
+{
+"cat": "Alltag & Schule",
+"art": "das",
+"de": "Geld",
+"pl": "",
+"en": "money",
+"emoji": "💶"
+},
+{
+"cat": "Alltag & Schule",
+"art": "das",
+"de": "Geschenk",
+"pl": "Geschenke",
+"en": "present, gift",
+"emoji": "🎁"
+},
+{
+"cat": "Beruf",
+"art": "der",
+"de": "Arzt",
+"pl": "Ärzte",
+"en": "doctor",
+"emoji": "🧑‍⚕️",
+"wiki": "-"
+},
+{
+"cat": "Beruf",
+"art": "der",
+"de": "Lehrer",
+"pl": "Lehrer",
+"en": "teacher",
+"emoji": "🧑‍🏫",
+"wiki": "-"
+},
+{
+"cat": "Beruf",
+"art": "der",
+"de": "Koch",
+"pl": "Köche",
+"en": "cook, chef",
+"emoji": "🧑‍🍳",
+"wiki": "-"
+},
+{
+"cat": "Beruf",
+"art": "der",
+"de": "Polizist",
+"pl": "Polizisten",
+"en": "police officer",
+"emoji": "👮",
+"wiki": "-"
+},
+{
+"cat": "Beruf",
+"art": "der",
+"de": "Bauer",
+"pl": "Bauern",
+"en": "farmer",
+"emoji": "🧑‍🌾",
+"wiki": "-"
+},
+{
+"cat": "Beruf",
+"art": "der",
+"de": "Pilot",
+"pl": "Piloten",
+"en": "pilot",
+"emoji": "🧑‍✈️",
+"wiki": "-"
+}
+]

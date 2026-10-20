@@ -1,0 +1,74 @@
+{
+ "id": "v_medien",
+ "level": "B1",
+ "title": "Wortschatz: Medien & Freizeit",
+ "explanation": "Goethe-B1-Wortschatz zum Thema. Lerne Nomen immer mit Artikel und Plural.",
+ "questions": [
+  {
+   "type": "mc",
+   "q": "___ Zeitung",
+   "options": [
+    "die",
+    "der",
+    "das"
+   ],
+   "answer": "die",
+   "explain": ""
+  },
+  {
+   "type": "mc",
+   "q": "sich entspannen bedeutet:",
+   "options": [
+    "to relax",
+    "to hurry",
+    "to argue"
+   ],
+   "answer": "to relax",
+   "explain": ""
+  },
+  {
+   "type": "mc",
+   "q": "Ich bin Mitglied in einem ___.",
+   "options": [
+    "Verein",
+    "Vertrag",
+    "Versuch"
+   ],
+   "answer": "Verein",
+   "explain": ""
+  },
+  {
+   "type": "mc",
+   "q": "Eintritt bedeutet:",
+   "options": [
+    "admission fee",
+    "exit",
+    "ticket office"
+   ],
+   "answer": "admission fee",
+   "explain": ""
+  },
+  {
+   "type": "mc",
+   "q": "___ Veranstaltung",
+   "options": [
+    "die",
+    "der",
+    "das"
+   ],
+   "answer": "die",
+   "explain": ""
+  },
+  {
+   "type": "mc",
+   "q": "Eine „Sendung“ im Fernsehen ist:",
+   "options": [
+    "a programme",
+    "a letter",
+    "a shop"
+   ],
+   "answer": "a programme",
+   "explain": ""
+  }
+ ]
+}

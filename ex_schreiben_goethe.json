@@ -1,0 +1,93 @@
+{
+ "id": "ex_schreiben_goethe",
+ "level": "Prüfung",
+ "title": "Goethe Schreiben Teil 1–3",
+ "explanation": "Teil 1: persönliche E-Mail (ca. 80 Wörter), Teil 2: Forumsbeitrag mit Meinung (ca. 80 Wörter), Teil 3: formelle E-Mail (ca. 40 Wörter). Alle Leitpunkte behandeln, Anrede/Gruß nicht vergessen. Du kannst tippen oder diktieren.",
+ "minutes": 20,
+ "ordered": true,
+ "questions": [
+  {
+   "type": "write",
+   "q": "Teil 1: Eine Freundin lädt Sie zu ihrer Geburtstagsparty ein. Sie können nicht kommen. Schreiben Sie: Danken Sie für die Einladung; erklären Sie, warum Sie nicht kommen können; schlagen Sie einen anderen Termin zum Feiern vor.",
+   "hint": "Informelle E-Mail, ca. 80 Wörter",
+   "min": 70,
+   "checks": [
+    [
+     "Anrede (Liebe/Hallo)",
+     "(liebe|lieber|hallo)"
+    ],
+    [
+     "Dank für die Einladung",
+     "(danke|vielen dank|dankeschön)"
+    ],
+    [
+     "Grund (weil/denn/leider)",
+     "(weil|denn|leider|muss)"
+    ],
+    [
+     "Terminvorschlag",
+     "(termin|treffen|wie wäre es|vorschlagen|nächste|am wochenende)"
+    ],
+    [
+     "Grußformel",
+     "(grüße|tschüss|bis bald|dein|deine)"
+    ]
+   ],
+   "model": "Liebe Sara,\nvielen Dank für deine Einladung zu deiner Geburtstagsparty! Ich habe mich sehr darüber gefreut. Leider kann ich am Samstag nicht kommen, weil ich an dem Wochenende meine Eltern besuche. Das tut mir wirklich leid. Wie wäre es, wenn wir am Sonntag danach gemeinsam essen gehen? Dann kann ich dir auch dein Geschenk geben. Schreib mir bitte, ob das für dich passt.\nLiebe Grüße\nTom"
+  },
+  {
+   "type": "write",
+   "q": "Teil 2: Forum „Sollten Kinder in der Schule Handys benutzen dürfen?“ Schreiben Sie Ihre Meinung.",
+   "hint": "Forumsbeitrag, ca. 80 Wörter",
+   "min": 70,
+   "checks": [
+    [
+     "Meinung",
+     "(ich finde|meiner meinung|ich denke|ich glaube|meiner ansicht)"
+    ],
+    [
+     "Begründung",
+     "(weil|denn|deshalb|deswegen)"
+    ],
+    [
+     "Beispiel",
+     "(zum beispiel|beispielsweise|etwa)"
+    ],
+    [
+     "Gegenargument",
+     "(aber|allerdings|jedoch|trotzdem|auf der anderen seite)"
+    ],
+    [
+     "Schluss",
+     "(deshalb|insgesamt|zusammenfassend|also|daher)"
+    ]
+   ],
+   "model": "Ich finde, dass Kinder in der Schule Handys nur mit klaren Regeln benutzen sollten. Einerseits lenken Handys im Unterricht ab, denn viele Schüler spielen lieber, als aufzupassen. Andererseits können sie beim Lernen helfen, zum Beispiel für Recherchen oder Übersetzungen. Deshalb bin ich dafür, dass Handys in den Pausen erlaubt sind und im Unterricht nur zu einem bestimmten Zweck. Insgesamt kommt es darauf an, wie man sie benutzt."
+  },
+  {
+   "type": "write",
+   "q": "Teil 3: Sie haben im Internet eine Jacke bestellt, aber die falsche Größe bekommen. Schreiben Sie an den Kundenservice: Beschreiben Sie das Problem und bitten Sie um einen Umtausch.",
+   "hint": "Formelle E-Mail, ca. 40 Wörter",
+   "min": 35,
+   "checks": [
+    [
+     "Formelle Anrede (Sehr geehrte)",
+     "sehr geehrte"
+    ],
+    [
+     "Problem (falsche Größe)",
+     "(größe|falsch|leider|problem)"
+    ],
+    [
+     "Bitte um Umtausch",
+     "(bitte|möchte|umtausch|umtauschen)"
+    ],
+    [
+     "Formeller Gruß",
+     "mit freundlichen gr"
+    ]
+   ],
+   "model": "Sehr geehrte Damen und Herren,\nich habe am 5. Mai eine Jacke bestellt (Bestellnummer 4711). Leider habe ich Größe M statt Größe L bekommen. Ich möchte die Jacke gern umtauschen. Bitte schicken Sie mir die richtige Größe und teilen Sie mir mit, wie ich die Jacke zurücksenden kann.\nMit freundlichen Grüßen\nAnna Schmidt"
+  }
+ ]
+}

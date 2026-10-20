@@ -1,0 +1,74 @@
+{
+ "id": "v_umwelt",
+ "level": "B1",
+ "title": "Wortschatz: Umwelt & Natur",
+ "explanation": "Goethe-B1-Wortschatz zum Thema. Lerne Nomen immer mit Artikel und Plural.",
+ "questions": [
+  {
+   "type": "mc",
+   "q": "Müll ___",
+   "options": [
+    "trennen",
+    "trinken",
+    "tragen"
+   ],
+   "answer": "trennen",
+   "explain": ""
+  },
+  {
+   "type": "mc",
+   "q": "___ Umwelt",
+   "options": [
+    "die",
+    "der",
+    "das"
+   ],
+   "answer": "die",
+   "explain": ""
+  },
+  {
+   "type": "mc",
+   "q": "Solarenergie ist eine ___ Energie.",
+   "options": [
+    "erneuerbare",
+    "erneuerte",
+    "erneuernd"
+   ],
+   "answer": "erneuerbare",
+   "explain": ""
+  },
+  {
+   "type": "mc",
+   "q": "Treibhausgas bedeutet:",
+   "options": [
+    "greenhouse gas",
+    "exhaust pipe",
+    "fog"
+   ],
+   "answer": "greenhouse gas",
+   "explain": ""
+  },
+  {
+   "type": "mc",
+   "q": "Wir sollten Energie ___.",
+   "options": [
+    "sparen",
+    "spielen",
+    "sprechen"
+   ],
+   "answer": "sparen",
+   "explain": ""
+  },
+  {
+   "type": "mc",
+   "q": "Klimawandel bedeutet:",
+   "options": [
+    "climate change",
+    "weather forecast",
+    "season"
+   ],
+   "answer": "climate change",
+   "explain": ""
+  }
+ ]
+}

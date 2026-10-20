@@ -1,0 +1,100 @@
+{
+ "id": "ex_sprechen_telc",
+ "level": "Prüfung",
+ "title": "telc Mündlicher Ausdruck (3 Teile)",
+ "explanation": "telc B1 (Paarprüfung, ca. 15 Min.): Teil 1 Kontaktaufnahme (sich vorstellen), Teil 2 Gespräch über ein Thema (Erfahrungen, Meinung), Teil 3 gemeinsam etwas planen. Sprich in ganzen Sätzen.",
+ "ordered": true,
+ "questions": [
+  {
+   "type": "talk",
+   "q": "Teil 1: Stellen Sie sich vor: Name, Herkunft, Wohnort, Beruf/Ausbildung, Familie, Hobbys, Gründe für Deutsch.",
+   "hint": "ca. 1 Minute",
+   "min": 50,
+   "checks": [
+    [
+     "Name",
+     "(ich heiße|mein name)"
+    ],
+    [
+     "Herkunft",
+     "(ich komme aus|ich bin aus|geboren)"
+    ],
+    [
+     "Wohnort",
+     "(ich wohne|ich lebe)"
+    ],
+    [
+     "Beruf/Ausbildung",
+     "(ich arbeite|ich bin|ich studiere|beruf|ausbildung)"
+    ],
+    [
+     "Hobbys",
+     "(hobby|hobbys|in meiner freizeit|ich spiele|ich lese)"
+    ],
+    [
+     "Grund für Deutsch",
+     "(lerne deutsch|deutsch lernen|weil)"
+    ]
+   ],
+   "model": "Ich heiße Ravi Kumar und komme aus Indien. Ich wohne seit zwei Jahren in Potsdam. Ich arbeite als Ingenieur. In meiner Freizeit spiele ich gern Cricket und lese Bücher. Ich lerne Deutsch, weil ich in Deutschland arbeiten und leben möchte."
+  },
+  {
+   "type": "talk",
+   "q": "Teil 2: Thema „Urlaub“. Erzählen Sie: Wohin fahren Sie gern? Mit wem? Was machen Sie dort? Wie war Ihr letzter Urlaub?",
+   "hint": "ca. 2 Minuten",
+   "min": 60,
+   "checks": [
+    [
+     "Ziel",
+     "(ich fahre|ich reise|ich fliege)"
+    ],
+    [
+     "Mit wem",
+     "(mit meiner|mit meinem|mit freunden|allein)"
+    ],
+    [
+     "Aktivitäten",
+     "(ich besuche|ich schwimme|wir machen|ich wandere|ich besichtige)"
+    ],
+    [
+     "Vergangenheit (Perfekt/Prät.)",
+     "(war|bin .* gefahren|habe .* gemacht|haben .* besucht)"
+    ],
+    [
+     "Meinung",
+     "(ich finde|gefällt|schön)"
+    ]
+   ],
+   "model": "Ich fahre gern ans Meer, meistens mit meiner Familie. Dort schwimmen wir viel und besuchen kleine Städte. Letztes Jahr waren wir in Italien. Wir sind mit dem Auto gefahren und haben viele Museen besichtigt. Ich finde Urlaub wichtig, weil man sich entspannen kann."
+  },
+  {
+   "type": "talk",
+   "q": "Teil 3: Planen Sie gemeinsam einen Ausflug für Ihre Deutschklasse: Wohin? Wann? Wie? Was nehmen wir mit?",
+   "hint": "ca. 3 Minuten",
+   "min": 50,
+   "checks": [
+    [
+     "Vorschlag",
+     "(wie wäre es|wir könnten|ich schlage vor)"
+    ],
+    [
+     "Frage",
+     "(\\?|was meinst du|was denkst du)"
+    ],
+    [
+     "Zustimmen/Ablehnen",
+     "(gute idee|einverstanden|ich finde nicht|lieber)"
+    ],
+    [
+     "Zeit/Ort",
+     "(am samstag|am wochenende|um .* uhr|nach|in den)"
+    ],
+    [
+     "Abschluss",
+     "(also|dann machen wir|abgemacht)"
+    ]
+   ],
+   "model": "Wie wäre es mit einem Ausflug nach Berlin? Was meinst du? – Gute Idee, aber lieber am Samstag, weil wir da alle Zeit haben. Wir könnten mit dem Zug fahren. Einverstanden. Jeder bringt etwas zu essen mit. Also treffen wir uns um acht Uhr am Bahnhof!"
+  }
+ ]
+}

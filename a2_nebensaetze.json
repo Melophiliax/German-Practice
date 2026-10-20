@@ -1,0 +1,80 @@
+{
+ "id": "a2_nebensaetze",
+ "level": "A2",
+ "title": "Nebensätze: weil, dass, wenn, ob, obwohl",
+ "explanation": "Im Nebensatz steht das konjugierte Verb am Ende. Steht der Nebensatz vorn, folgt das Verb direkt: Wenn es regnet, bleibe ich zu Hause.",
+ "questions": [
+  {
+   "type": "fill",
+   "q": "Ich weiß, dass er morgen ___. (kommen)",
+   "answer": "kommt",
+   "explain": ""
+  },
+  {
+   "type": "order",
+   "q": "Bilde den Satz.",
+   "words": [
+    "Wenn",
+    "es",
+    "regnet",
+    "bleibe",
+    "ich",
+    "zu",
+    "Hause"
+   ],
+   "answer": "Wenn es regnet bleibe ich zu Hause",
+   "explain": "Nebensatz auf Pos. 1 → Verb direkt danach."
+  },
+  {
+   "type": "mc",
+   "q": "Ich lerne Deutsch, ___ ich in Berlin arbeiten möchte.",
+   "options": [
+    "weil",
+    "dass",
+    "ob"
+   ],
+   "answer": "weil",
+   "explain": ""
+  },
+  {
+   "type": "fill",
+   "q": "Ich weiß nicht, ___ er kommt. (Ja/Nein-Frage)",
+   "answer": "ob",
+   "explain": ""
+  },
+  {
+   "type": "mc",
+   "q": "Er geht zur Arbeit, ___ er krank ist.",
+   "options": [
+    "obwohl",
+    "weil",
+    "damit"
+   ],
+   "answer": "obwohl",
+   "explain": "Gegensatz."
+  },
+  {
+   "type": "order",
+   "q": "Bilde den Satz.",
+   "words": [
+    "Ich",
+    "glaube",
+    "dass",
+    "er",
+    "morgen",
+    "kommt"
+   ],
+   "answer": "Ich glaube dass er morgen kommt",
+   "explain": ""
+  },
+  {
+   "type": "translate",
+   "q": "Übersetze: I think that she is at home.",
+   "answer": [
+    "Ich denke, dass sie zu Hause ist",
+    "Ich glaube, dass sie zu Hause ist"
+   ],
+   "explain": ""
+  }
+ ]
+}

@@ -1,0 +1,10 @@
+{"id":"a2_tekamolo","level":"A2","title":"TeKaMoLo, Nebensätze, Perfekt",
+"explanation":"Reihenfolge der Angaben: Temporal, Kausal, Modal, Lokal. Im Nebensatz (weil, dass, wenn) steht das konjugierte Verb am Ende. Perfekt: haben/sein + Partizip II (Bewegung → sein).",
+"questions":[
+{"type":"order","q":"TeKaMoLo: Bilde den Satz.","words":["Ich","fahre","morgen","mit","dem","Zug","nach","Berlin"],"answer":"Ich fahre morgen mit dem Zug nach Berlin","explain":"Te (morgen) – Mo (mit dem Zug) – Lo (nach Berlin)."},
+{"type":"order","q":"Nebensatz: Bilde den Satz.","words":["Ich","bleibe","zu","Hause","weil","ich","krank","bin"],"answer":"Ich bleibe zu Hause, weil ich krank bin","explain":"Nach weil steht das konjugierte Verb am Ende."},
+{"type":"fill","q":"Ich bleibe zu Hause, weil ich krank ___. (sein)","answer":"bin","explain":"Verb-Endstellung im weil-Satz."},
+{"type":"mc","q":"Er ___ nach Hause gegangen.","options":["hat","ist","wird"],"answer":"ist","explain":"Bewegungsverben (gehen) bilden das Perfekt mit sein."},
+{"type":"translate","q":"Übersetze: He is taller than his brother.","answer":["Er ist größer als sein Bruder"],"explain":"Komparativ + als."},
+{"type":"fill","q":"Das ist der ___ Berg. (hoch, Superlativ)","answer":"höchste","explain":"hoch → höher → der höchste (unregelmäßig)."}
+]}

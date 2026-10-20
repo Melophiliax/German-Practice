@@ -1,0 +1,78 @@
+{
+ "id": "a1_prepositions",
+ "level": "A1",
+ "title": "Grundlegende Präpositionen",
+ "explanation": "mit/aus/von/zu/bei/nach + Dativ; für/ohne/durch/gegen + Akkusativ. nach Hause, zu Hause; am Montag, um 8 Uhr, im Juli.",
+ "questions": [
+  {
+   "type": "mc",
+   "q": "Ich fahre ___ dem Bus.",
+   "options": [
+    "mit",
+    "für",
+    "ohne"
+   ],
+   "answer": "mit",
+   "explain": "mit + Dativ."
+  },
+  {
+   "type": "mc",
+   "q": "Ich gehe ___ Hause.",
+   "options": [
+    "nach",
+    "zu",
+    "in"
+   ],
+   "answer": "nach",
+   "explain": "feste Wendung: nach Hause."
+  },
+  {
+   "type": "mc",
+   "q": "Ich wohne ___ Berlin.",
+   "options": [
+    "in",
+    "nach",
+    "zu"
+   ],
+   "answer": "in",
+   "explain": "Ort → in."
+  },
+  {
+   "type": "fill",
+   "q": "Ich komme ___ Indien. (Herkunft)",
+   "answer": "aus",
+   "explain": "aus + Dativ."
+  },
+  {
+   "type": "fill",
+   "q": "Das Geschenk ist ___ dich.",
+   "answer": "für",
+   "explain": "für + Akkusativ."
+  },
+  {
+   "type": "mc",
+   "q": "Er geht ___ Arzt.",
+   "options": [
+    "zum",
+    "im",
+    "am"
+   ],
+   "answer": "zum",
+   "explain": "zu + dem = zum."
+  },
+  {
+   "type": "fill",
+   "q": "Wir treffen uns ___ Montag.",
+   "answer": "am",
+   "explain": "an + dem = am (Wochentage)."
+  },
+  {
+   "type": "translate",
+   "q": "Übersetze: I live in Munich.",
+   "answer": [
+    "Ich wohne in München"
+   ],
+   "explain": "in + Stadt."
+  }
+ ]
+}

@@ -1,0 +1,76 @@
+{
+ "id": "ex_lesen1",
+ "level": "Prüfung",
+ "title": "Goethe Lesen Teil 1: E-Mail (Richtig/Falsch)",
+ "explanation": "Lies die E-Mail und entscheide: Richtig oder Falsch? (Im Original: 6 Aufgaben, 6 Punkte.) Strategie: Aussagen mit Wörtern wie „immer/nur/nie“ prüfen und Zahlen/Tage genau vergleichen.",
+ "minutes": 10,
+ "ordered": true,
+ "questions": [
+  {
+   "type": "mc",
+   "q": "Mara kann am Samstag nicht zur Party kommen.",
+   "options": [
+    "Richtig",
+    "Falsch"
+   ],
+   "answer": "Richtig",
+   "explain": "",
+   "passage": "Liebe Julia,\nich hoffe, es geht dir gut. Ich schreibe dir, weil ich am Samstag nicht zu deiner Party kommen kann. Meine Chefin hat mich gebeten, im Büro zu arbeiten, weil ein Kollege krank ist. Das tut mir wirklich leid, denn ich hatte mich sehr auf den Abend gefreut. Ich möchte dir trotzdem etwas schenken. Vielleicht können wir uns am Sonntag treffen? Ich fahre um 14 Uhr mit dem Bus zu dir; du musst mich nicht abholen.\nLiebe Grüße\nMara"
+  },
+  {
+   "type": "mc",
+   "q": "Mara ist krank.",
+   "options": [
+    "Richtig",
+    "Falsch"
+   ],
+   "answer": "Falsch",
+   "explain": "",
+   "passage": "Liebe Julia,\nich hoffe, es geht dir gut. Ich schreibe dir, weil ich am Samstag nicht zu deiner Party kommen kann. Meine Chefin hat mich gebeten, im Büro zu arbeiten, weil ein Kollege krank ist. Das tut mir wirklich leid, denn ich hatte mich sehr auf den Abend gefreut. Ich möchte dir trotzdem etwas schenken. Vielleicht können wir uns am Sonntag treffen? Ich fahre um 14 Uhr mit dem Bus zu dir; du musst mich nicht abholen.\nLiebe Grüße\nMara"
+  },
+  {
+   "type": "mc",
+   "q": "Mara hat sich auf die Party gefreut.",
+   "options": [
+    "Richtig",
+    "Falsch"
+   ],
+   "answer": "Richtig",
+   "explain": "",
+   "passage": "Liebe Julia,\nich hoffe, es geht dir gut. Ich schreibe dir, weil ich am Samstag nicht zu deiner Party kommen kann. Meine Chefin hat mich gebeten, im Büro zu arbeiten, weil ein Kollege krank ist. Das tut mir wirklich leid, denn ich hatte mich sehr auf den Abend gefreut. Ich möchte dir trotzdem etwas schenken. Vielleicht können wir uns am Sonntag treffen? Ich fahre um 14 Uhr mit dem Bus zu dir; du musst mich nicht abholen.\nLiebe Grüße\nMara"
+  },
+  {
+   "type": "mc",
+   "q": "Mara schlägt ein Treffen am Samstag vor.",
+   "options": [
+    "Richtig",
+    "Falsch"
+   ],
+   "answer": "Falsch",
+   "explain": "",
+   "passage": "Liebe Julia,\nich hoffe, es geht dir gut. Ich schreibe dir, weil ich am Samstag nicht zu deiner Party kommen kann. Meine Chefin hat mich gebeten, im Büro zu arbeiten, weil ein Kollege krank ist. Das tut mir wirklich leid, denn ich hatte mich sehr auf den Abend gefreut. Ich möchte dir trotzdem etwas schenken. Vielleicht können wir uns am Sonntag treffen? Ich fahre um 14 Uhr mit dem Bus zu dir; du musst mich nicht abholen.\nLiebe Grüße\nMara"
+  },
+  {
+   "type": "mc",
+   "q": "Mara möchte Julia ein Geschenk geben.",
+   "options": [
+    "Richtig",
+    "Falsch"
+   ],
+   "answer": "Richtig",
+   "explain": "",
+   "passage": "Liebe Julia,\nich hoffe, es geht dir gut. Ich schreibe dir, weil ich am Samstag nicht zu deiner Party kommen kann. Meine Chefin hat mich gebeten, im Büro zu arbeiten, weil ein Kollege krank ist. Das tut mir wirklich leid, denn ich hatte mich sehr auf den Abend gefreut. Ich möchte dir trotzdem etwas schenken. Vielleicht können wir uns am Sonntag treffen? Ich fahre um 14 Uhr mit dem Bus zu dir; du musst mich nicht abholen.\nLiebe Grüße\nMara"
+  },
+  {
+   "type": "mc",
+   "q": "Julia soll Mara abholen.",
+   "options": [
+    "Richtig",
+    "Falsch"
+   ],
+   "answer": "Falsch",
+   "explain": "",
+   "passage": "Liebe Julia,\nich hoffe, es geht dir gut. Ich schreibe dir, weil ich am Samstag nicht zu deiner Party kommen kann. Meine Chefin hat mich gebeten, im Büro zu arbeiten, weil ein Kollege krank ist. Das tut mir wirklich leid, denn ich hatte mich sehr auf den Abend gefreut. Ich möchte dir trotzdem etwas schenken. Vielleicht können wir uns am Sonntag treffen? Ich fahre um 14 Uhr mit dem Bus zu dir; du musst mich nicht abholen.\nLiebe Grüße\nMara"
+  }
+ ]
+}

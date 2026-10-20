@@ -1,0 +1,98 @@
+{
+ "id": "a1_verbs",
+ "level": "A1",
+ "title": "Verbkonjugation (Präsens)",
+ "explanation": "Endungen: ich -e, du -st, er/sie/es -t, wir -en, ihr -t, sie/Sie -en. Unregelmäßig: e→i/ie (essen→isst), a→ä (fahren→fährt). Trennbare Verben: Präfix am Satzende (aufstehen → Ich stehe um 7 auf).",
+ "questions": [
+  {
+   "type": "mc",
+   "q": "Du ___ in Berlin. (wohnen)",
+   "options": [
+    "wohnst",
+    "wohnt",
+    "wohne"
+   ],
+   "answer": "wohnst",
+   "explain": "du → -st"
+  },
+  {
+   "type": "fill",
+   "q": "Er ___ gern Pizza. (essen)",
+   "answer": "isst",
+   "explain": "e → i bei er/sie/es"
+  },
+  {
+   "type": "fill",
+   "q": "Sie ___ jeden Tag mit dem Bus. (fahren, sie sg.)",
+   "answer": "fährt",
+   "explain": "a → ä"
+  },
+  {
+   "type": "mc",
+   "q": "Wir ___ aus Indien. (kommen)",
+   "options": [
+    "kommen",
+    "kommt",
+    "kommst"
+   ],
+   "answer": "kommen",
+   "explain": "wir → -en"
+  },
+  {
+   "type": "mc",
+   "q": "Ihr ___ heute Abend. (arbeiten)",
+   "options": [
+    "arbeitet",
+    "arbeitest",
+    "arbeiten"
+   ],
+   "answer": "arbeitet",
+   "explain": "ihr → -t"
+  },
+  {
+   "type": "fill",
+   "q": "Du ___ sehr gut Deutsch. (sprechen)",
+   "answer": "sprichst",
+   "explain": "e → i"
+  },
+  {
+   "type": "order",
+   "q": "Bilde den Satz.",
+   "words": [
+    "Ich",
+    "stehe",
+    "um",
+    "sieben",
+    "Uhr",
+    "auf"
+   ],
+   "answer": "Ich stehe um sieben Uhr auf",
+   "explain": "Trennbar: stehen … auf, Präfix am Ende."
+  },
+  {
+   "type": "translate",
+   "q": "Übersetze: The train arrives at 8.",
+   "answer": [
+    "Der Zug kommt um acht Uhr an",
+    "Der Zug kommt um 8 Uhr an"
+   ],
+   "explain": "ankommen: kommt … an."
+  },
+  {
+   "type": "listen",
+   "q": "Wo wohnt Maria?",
+   "audio": "Ich heiße Maria und ich wohne in Köln.",
+   "options": [
+    "Köln",
+    "Berlin",
+    "Wien"
+   ],
+   "answer": "Köln"
+  },
+  {
+   "type": "speak",
+   "q": "Sprich nach: Ich lerne jeden Tag Deutsch.",
+   "answer": "Ich lerne jeden Tag Deutsch"
+  }
+ ]
+}

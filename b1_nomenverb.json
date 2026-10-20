@@ -1,0 +1,73 @@
+{
+ "id": "b1_nomenverb",
+ "level": "B1",
+ "title": "Nomen-Verb-Verbindungen",
+ "explanation": "Feste Verbindungen als Einheit lernen.",
+ "questions": [
+  {
+   "type": "fill",
+   "q": "Ich muss eine Entscheidung ___.",
+   "answer": "treffen",
+   "explain": ""
+  },
+  {
+   "type": "mc",
+   "q": "Das spielt eine wichtige ___.",
+   "options": [
+    "Rolle",
+    "Aufgabe",
+    "Frage"
+   ],
+   "answer": "Rolle",
+   "explain": ""
+  },
+  {
+   "type": "fill",
+   "q": "Ich möchte Ihnen eine Frage ___.",
+   "answer": "stellen",
+   "explain": ""
+  },
+  {
+   "type": "mc",
+   "q": "Wir müssen Rücksicht auf andere ___.",
+   "options": [
+    "nehmen",
+    "machen",
+    "geben"
+   ],
+   "answer": "nehmen",
+   "explain": ""
+  },
+  {
+   "type": "mc",
+   "q": "Der Zug hat zehn Minuten ___.",
+   "options": [
+    "Verspätung",
+    "Verlust",
+    "Verbindung"
+   ],
+   "answer": "Verspätung",
+   "explain": ""
+  },
+  {
+   "type": "fill",
+   "q": "Er hat Interesse ___ Musik. (Präposition)",
+   "answer": "an",
+   "explain": ""
+  },
+  {
+   "type": "fill",
+   "q": "Sie ___ einen Antrag. (stellen)",
+   "answer": "stellt",
+   "explain": ""
+  },
+  {
+   "type": "translate",
+   "q": "Übersetze: I have to make a decision.",
+   "answer": [
+    "Ich muss eine Entscheidung treffen"
+   ],
+   "explain": ""
+  }
+ ]
+}

@@ -1,0 +1,74 @@
+{
+ "id": "v_redemittel",
+ "level": "B1",
+ "title": "Wortschatz: Wortbildung & Redemittel",
+ "explanation": "Goethe-B1-Wortschatz zum Thema. Lerne Nomen immer mit Artikel und Plural.",
+ "questions": [
+  {
+   "type": "mc",
+   "q": "Gegenteil von „möglich“:",
+   "options": [
+    "unmöglich",
+    "entmöglich",
+    "nichtmöglich"
+   ],
+   "answer": "unmöglich",
+   "explain": ""
+  },
+  {
+   "type": "mc",
+   "q": "Nomen von „entscheiden“:",
+   "options": [
+    "die Entscheidung",
+    "die Entscheiden",
+    "der Entscheidende"
+   ],
+   "answer": "die Entscheidung",
+   "explain": ""
+  },
+  {
+   "type": "mc",
+   "q": "Meiner ___ nach ist das richtig.",
+   "options": [
+    "Meinung",
+    "Meine",
+    "Meinen"
+   ],
+   "answer": "Meinung",
+   "explain": ""
+  },
+  {
+   "type": "mc",
+   "q": "Zustimmen: „Da ___ ich dir zu.“",
+   "options": [
+    "stimme",
+    "sage",
+    "finde"
+   ],
+   "answer": "stimme",
+   "explain": ""
+  },
+  {
+   "type": "mc",
+   "q": "Widersprechen: „Ich bin anderer ___.“",
+   "options": [
+    "Meinung",
+    "Ansicht",
+    "Mensch"
+   ],
+   "answer": "Meinung",
+   "explain": ""
+  },
+  {
+   "type": "mc",
+   "q": "Vorschlag: „___ wir ins Kino gehen?“",
+   "options": [
+    "Wollen",
+    "Wollt",
+    "Willst"
+   ],
+   "answer": "Wollen",
+   "explain": ""
+  }
+ ]
+}

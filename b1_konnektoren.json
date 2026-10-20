@@ -1,0 +1,86 @@
+{
+ "id": "b1_konnektoren",
+ "level": "B1",
+ "title": "Konnektoren (deshalb, trotzdem, sondern …)",
+ "explanation": "Hauptsatz-Konnektoren (deshalb, deswegen, trotzdem, außerdem, sonst) stehen auf Position 1, danach folgt das Verb. denn, aber, sondern, oder, und stehen auf Position 0. Doppelt: entweder…oder, sowohl…als auch, weder…noch, zwar…aber, nicht nur…sondern auch.",
+ "questions": [
+  {
+   "type": "mc",
+   "q": "Es regnet. ___ bleibe ich zu Hause.",
+   "options": [
+    "Deshalb",
+    "Weil",
+    "Obwohl"
+   ],
+   "answer": "Deshalb",
+   "explain": ""
+  },
+  {
+   "type": "mc",
+   "q": "Ich bin müde, ___ gehe ich nicht schlafen.",
+   "options": [
+    "trotzdem",
+    "deshalb",
+    "weil"
+   ],
+   "answer": "trotzdem",
+   "explain": "Gegensatz."
+  },
+  {
+   "type": "order",
+   "q": "Bilde den Satz.",
+   "words": [
+    "Ich",
+    "habe",
+    "keine",
+    "Zeit",
+    "deshalb",
+    "kann",
+    "ich",
+    "nicht",
+    "kommen"
+   ],
+   "answer": "Ich habe keine Zeit deshalb kann ich nicht kommen",
+   "explain": ""
+  },
+  {
+   "type": "mc",
+   "q": "Ich fahre nicht mit dem Auto, ___ mit dem Zug.",
+   "options": [
+    "sondern",
+    "aber",
+    "denn"
+   ],
+   "answer": "sondern",
+   "explain": "nicht … sondern"
+  },
+  {
+   "type": "fill",
+   "q": "Ich mag sowohl Tee ___ auch Kaffee.",
+   "answer": "als",
+   "explain": ""
+  },
+  {
+   "type": "mc",
+   "q": "Er ist weder reich ___ berühmt.",
+   "options": [
+    "noch",
+    "oder",
+    "sondern"
+   ],
+   "answer": "noch",
+   "explain": ""
+  },
+  {
+   "type": "mc",
+   "q": "Ich lerne viel, ___ ich die Prüfung bestehen will.",
+   "options": [
+    "denn",
+    "deshalb",
+    "trotzdem"
+   ],
+   "answer": "denn",
+   "explain": "denn: Position 0, Verb auf 2."
+  }
+ ]
+}

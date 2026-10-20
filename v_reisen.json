@@ -1,0 +1,74 @@
+{
+ "id": "v_reisen",
+ "level": "B1",
+ "title": "Wortschatz: Reisen & Verkehr",
+ "explanation": "Goethe-B1-Wortschatz zum Thema. Lerne Nomen immer mit Artikel und Plural.",
+ "questions": [
+  {
+   "type": "mc",
+   "q": "Der Zug hat ___.",
+   "options": [
+    "Verspätung",
+    "Verbindung",
+    "Verkehr"
+   ],
+   "answer": "Verspätung",
+   "explain": ""
+  },
+  {
+   "type": "mc",
+   "q": "Von welchem ___ fährt der Zug?",
+   "options": [
+    "Gleis",
+    "Glas",
+    "Gleich"
+   ],
+   "answer": "Gleis",
+   "explain": ""
+  },
+  {
+   "type": "mc",
+   "q": "___ Fahrkarte",
+   "options": [
+    "die",
+    "der",
+    "das"
+   ],
+   "answer": "die",
+   "explain": ""
+  },
+  {
+   "type": "mc",
+   "q": "umsteigen bedeutet:",
+   "options": [
+    "change trains",
+    "get off",
+    "board"
+   ],
+   "answer": "change trains",
+   "explain": ""
+  },
+  {
+   "type": "mc",
+   "q": "Ich möchte ein Zimmer ___.",
+   "options": [
+    "buchen",
+    "backen",
+    "bauen"
+   ],
+   "answer": "buchen",
+   "explain": ""
+  },
+  {
+   "type": "mc",
+   "q": "Der Flug wurde ___.",
+   "options": [
+    "gestrichen",
+    "gestritten",
+    "gestreut"
+   ],
+   "answer": "gestrichen",
+   "explain": ""
+  }
+ ]
+}

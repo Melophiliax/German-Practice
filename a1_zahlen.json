@@ -1,0 +1,73 @@
+{
+ "id": "a1_zahlen",
+ "level": "A1",
+ "title": "Zahlen, Uhrzeit, Datum",
+ "explanation": "Offiziell: 15:30 = fünfzehn Uhr dreißig. Umgangssprachlich: halb acht = 7:30, Viertel nach/vor. Ordnungszahlen: der erste, zweite, dritte, siebte, am ersten Mai.",
+ "questions": [
+  {
+   "type": "mc",
+   "q": "8:15 umgangssprachlich:",
+   "options": [
+    "Viertel nach acht",
+    "Viertel vor acht",
+    "halb acht"
+   ],
+   "answer": "Viertel nach acht",
+   "explain": ""
+  },
+  {
+   "type": "mc",
+   "q": "7:30 umgangssprachlich:",
+   "options": [
+    "halb acht",
+    "halb sieben",
+    "Viertel acht"
+   ],
+   "answer": "halb acht",
+   "explain": "halb acht = 30 Min. vor 8."
+  },
+  {
+   "type": "fill",
+   "q": "3. = der ___ (Ordnungszahl)",
+   "answer": "dritte",
+   "explain": ""
+  },
+  {
+   "type": "fill",
+   "q": "21 schreibt man:",
+   "answer": "einundzwanzig",
+   "explain": "Einer zuerst: ein-und-zwanzig."
+  },
+  {
+   "type": "mc",
+   "q": "Am ___ Mai. (1.)",
+   "options": [
+    "ersten",
+    "erste",
+    "eins"
+   ],
+   "answer": "ersten",
+   "explain": ""
+  },
+  {
+   "type": "translate",
+   "q": "Übersetze: I get up at half past six.",
+   "answer": [
+    "Ich stehe um halb sieben auf"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "listen",
+   "q": "Wie spät ist es?",
+   "audio": "Es ist Viertel vor neun.",
+   "options": [
+    "8:45",
+    "9:15",
+    "8:15"
+   ],
+   "answer": "8:45",
+   "explain": ""
+  }
+ ]
+}

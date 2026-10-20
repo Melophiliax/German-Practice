@@ -1,0 +1,75 @@
+{
+ "id": "b1_passiv2",
+ "level": "B1",
+ "title": "Passiv erweitert (Modalverben, Perfekt, Zustand)",
+ "explanation": "Modalverb + Partizip II + werden (muss gelöst werden). Perfekt: ist … worden. Zustandspassiv: sein + Partizip II (Das Fenster ist geschlossen).",
+ "questions": [
+  {
+   "type": "fill",
+   "q": "Das Formular muss ausgefüllt ___.",
+   "answer": "werden",
+   "explain": ""
+  },
+  {
+   "type": "fill",
+   "q": "Das Haus ist 1990 gebaut ___.",
+   "answer": "worden",
+   "explain": ""
+  },
+  {
+   "type": "mc",
+   "q": "Das Fenster ___ geschlossen. (Zustand)",
+   "options": [
+    "ist",
+    "wird",
+    "wurde"
+   ],
+   "answer": "ist",
+   "explain": ""
+  },
+  {
+   "type": "mc",
+   "q": "Hier ___ nicht geraucht werden.",
+   "options": [
+    "darf",
+    "wird",
+    "ist"
+   ],
+   "answer": "darf",
+   "explain": ""
+  },
+  {
+   "type": "translate",
+   "q": "Übersetze: The room has to be cleaned.",
+   "answer": [
+    "Das Zimmer muss gereinigt werden"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "mc",
+   "q": "Der Brief ___ gestern geschrieben worden.",
+   "options": [
+    "ist",
+    "hat",
+    "wird"
+   ],
+   "answer": "ist",
+   "explain": ""
+  },
+  {
+   "type": "order",
+   "q": "Bilde den Satz.",
+   "words": [
+    "Das",
+    "Problem",
+    "muss",
+    "sofort",
+    "gelöst",
+    "werden"
+   ],
+   "answer": "Das Problem muss sofort gelöst werden",
+   "explain": ""
+  }
+ ]
+}

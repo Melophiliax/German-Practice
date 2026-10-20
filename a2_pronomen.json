@@ -1,0 +1,63 @@
+{
+ "id": "a2_pronomen",
+ "level": "A2",
+ "title": "Personalpronomen im Dativ",
+ "explanation": "mir, dir, ihm, ihr, ihm, uns, euch, ihnen/Ihnen. Reihenfolge: Pronomen Akk. vor Dativ (Ich gebe es ihm); Nomen: Dativ vor Akkusativ.",
+ "questions": [
+  {
+   "type": "fill",
+   "q": "Ich gebe ___ das Buch. (er)",
+   "answer": "ihm",
+   "explain": ""
+  },
+  {
+   "type": "fill",
+   "q": "Das Buch gehört ___. (ich)",
+   "answer": "mir",
+   "explain": ""
+  },
+  {
+   "type": "fill",
+   "q": "Wie geht es ___? (du)",
+   "answer": "dir",
+   "explain": ""
+  },
+  {
+   "type": "mc",
+   "q": "Ich schenke ___ Blumen. (sie, sg.)",
+   "options": [
+    "ihr",
+    "sie",
+    "ihnen"
+   ],
+   "answer": "ihr",
+   "explain": ""
+  },
+  {
+   "type": "order",
+   "q": "Bilde den Satz.",
+   "words": [
+    "Ich",
+    "gebe",
+    "es",
+    "ihm"
+   ],
+   "answer": "Ich gebe es ihm",
+   "explain": "Akk.-Pronomen vor Dativ-Pronomen."
+  },
+  {
+   "type": "fill",
+   "q": "Er gibt ___ das Buch. (wir)",
+   "answer": "uns",
+   "explain": ""
+  },
+  {
+   "type": "translate",
+   "q": "Übersetze: I help her.",
+   "answer": [
+    "Ich helfe ihr"
+   ],
+   "explain": ""
+  }
+ ]
+}

@@ -1,0 +1,53 @@
+{
+ "id": "b1_partizip",
+ "level": "B1",
+ "title": "Partizip I & II als Adjektiv",
+ "explanation": "Partizip I = Infinitiv + d (lachend): gleichzeitig/aktiv. Partizip II: abgeschlossen/passiv (gebrochen). Mit Adjektivendung: das lachende Kind, das zerbrochene Fenster.",
+ "questions": [
+  {
+   "type": "mc",
+   "q": "Das ___ Kind spielt im Garten. (lachen)",
+   "options": [
+    "lachende",
+    "gelachte",
+    "lachte"
+   ],
+   "answer": "lachende",
+   "explain": ""
+  },
+  {
+   "type": "mc",
+   "q": "Das ___ Fenster muss repariert werden. (zerbrechen)",
+   "options": [
+    "zerbrochene",
+    "zerbrechende",
+    "zerbrach"
+   ],
+   "answer": "zerbrochene",
+   "explain": ""
+  },
+  {
+   "type": "fill",
+   "q": "Die ___ Tür steht offen. (öffnen, Part. II)",
+   "answer": "geöffnete",
+   "explain": ""
+  },
+  {
+   "type": "mc",
+   "q": "Der ___ Mann ist mein Onkel. (warten)",
+   "options": [
+    "wartende",
+    "gewartete",
+    "wartete"
+   ],
+   "answer": "wartende",
+   "explain": ""
+  },
+  {
+   "type": "fill",
+   "q": "Die ___ Preise sind hoch. (steigen, Part. I)",
+   "answer": "steigenden",
+   "explain": ""
+  }
+ ]
+}

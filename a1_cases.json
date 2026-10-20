@@ -1,0 +1,78 @@
+{
+ "id": "a1_cases",
+ "level": "A1",
+ "title": "Nominativ, Akkusativ & Pronomen",
+ "explanation": "Nominativ = Subjekt (der Mann), Akkusativ = direktes Objekt (den Mann). Nur Maskulin ändert sich: der→den, ein→einen, kein→keinen. Pronomen Akk.: mich, dich, ihn, sie, es, uns, euch, sie.",
+ "questions": [
+  {
+   "type": "mc",
+   "q": "___ Mann liest ein Buch.",
+   "options": [
+    "Der",
+    "Den",
+    "Dem"
+   ],
+   "answer": "Der",
+   "explain": "Subjekt → Nominativ."
+  },
+  {
+   "type": "mc",
+   "q": "Ich kaufe ___ Computer.",
+   "options": [
+    "der",
+    "den",
+    "dem"
+   ],
+   "answer": "den",
+   "explain": "Akkusativ Maskulin."
+  },
+  {
+   "type": "fill",
+   "q": "Ich liebe ihn. Das ist mein Bruder. Ich sehe ___ jeden Tag. (er, Akk.)",
+   "answer": "ihn",
+   "explain": "er → ihn"
+  },
+  {
+   "type": "mc",
+   "q": "Wo ist Anna? – ___ ist im Büro.",
+   "options": [
+    "Sie",
+    "Ihr",
+    "Ihn"
+   ],
+   "answer": "Sie",
+   "explain": "Subjekt → Nominativ."
+  },
+  {
+   "type": "fill",
+   "q": "Ich habe ___ Auto. (Negation, das Auto)",
+   "answer": "kein",
+   "explain": "Negation mit kein-."
+  },
+  {
+   "type": "fill",
+   "q": "Ich habe ___ Hund. (Negation, der Hund)",
+   "answer": "keinen",
+   "explain": "Akk. Maskulin: keinen."
+  },
+  {
+   "type": "translate",
+   "q": "Übersetze: I see the man.",
+   "answer": [
+    "Ich sehe den Mann"
+   ],
+   "explain": "sehen + Akkusativ."
+  },
+  {
+   "type": "mc",
+   "q": "Kannst du ___ hören? (ich)",
+   "options": [
+    "mich",
+    "mir",
+    "ich"
+   ],
+   "answer": "mich",
+   "explain": "hören + Akkusativ."
+  }
+ ]
+}

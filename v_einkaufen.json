@@ -1,0 +1,74 @@
+{
+ "id": "v_einkaufen",
+ "level": "B1",
+ "title": "Wortschatz: Einkaufen & Behörden",
+ "explanation": "Goethe-B1-Wortschatz zum Thema. Lerne Nomen immer mit Artikel und Plural.",
+ "questions": [
+  {
+   "type": "mc",
+   "q": "___ Quittung",
+   "options": [
+    "die",
+    "der",
+    "das"
+   ],
+   "answer": "die",
+   "explain": ""
+  },
+  {
+   "type": "mc",
+   "q": "Ich möchte die Ware ___.",
+   "options": [
+    "umtauschen",
+    "umziehen",
+    "umbauen"
+   ],
+   "answer": "umtauschen",
+   "explain": ""
+  },
+  {
+   "type": "mc",
+   "q": "Garantie bedeutet:",
+   "options": [
+    "warranty",
+    "discount",
+    "receipt"
+   ],
+   "answer": "warranty",
+   "explain": ""
+  },
+  {
+   "type": "mc",
+   "q": "Ein Formular ___.",
+   "options": [
+    "ausfüllen",
+    "aufstehen",
+    "ausgeben"
+   ],
+   "answer": "ausfüllen",
+   "explain": ""
+  },
+  {
+   "type": "mc",
+   "q": "Ein Antrag stellen bedeutet:",
+   "options": [
+    "to submit an application",
+    "to ask a question",
+    "to deliver"
+   ],
+   "answer": "to submit an application",
+   "explain": ""
+  },
+  {
+   "type": "mc",
+   "q": "Das Bürgeramt ist:",
+   "options": [
+    "citizens' registration office",
+    "a bank",
+    "a post office"
+   ],
+   "answer": "citizens' registration office",
+   "explain": ""
+  }
+ ]
+}

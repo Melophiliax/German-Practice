@@ -1,0 +1,64 @@
+{
+ "id": "a2_imperativ",
+ "level": "A2",
+ "title": "Imperativ",
+ "explanation": "du: Stamm (Komm! Sprich! Hilf!), ihr: Stamm+t (Kommt! Seid!), Sie: Infinitiv + Sie (Kommen Sie!). Verb an Position 1.",
+ "questions": [
+  {
+   "type": "fill",
+   "q": "___ bitte langsam! (sprechen, du)",
+   "answer": "Sprich",
+   "explain": "e→i bleibt."
+  },
+  {
+   "type": "fill",
+   "q": "___ mir bitte! (helfen, du)",
+   "answer": "Hilf",
+   "explain": ""
+  },
+  {
+   "type": "fill",
+   "q": "___ bitte pünktlich! (sein, ihr)",
+   "answer": "Seid",
+   "explain": ""
+  },
+  {
+   "type": "fill",
+   "q": "___ Sie bitte hier! (warten)",
+   "answer": "Warten",
+   "explain": ""
+  },
+  {
+   "type": "mc",
+   "q": "___ nicht so laut! (sein, du)",
+   "options": [
+    "Sei",
+    "Bist",
+    "Sein"
+   ],
+   "answer": "Sei",
+   "explain": ""
+  },
+  {
+   "type": "order",
+   "q": "Bilde den Satz.",
+   "words": [
+    "Gib",
+    "mir",
+    "bitte",
+    "das",
+    "Buch"
+   ],
+   "answer": "Gib mir bitte das Buch",
+   "explain": ""
+  },
+  {
+   "type": "translate",
+   "q": "Übersetze: Please open the door! (du)",
+   "answer": [
+    "Mach bitte die Tür auf"
+   ],
+   "explain": ""
+  }
+ ]
+}

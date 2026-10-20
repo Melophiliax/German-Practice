@@ -1,0 +1,79 @@
+{
+ "id": "b1_passiv",
+ "level": "B1",
+ "title": "Passiv (Präsens & Präteritum)",
+ "explanation": "Vorgangspassiv: werden + Partizip II. Präsens: wird/werden; Präteritum: wurde/wurden. Handelnder mit von + Dativ.",
+ "questions": [
+  {
+   "type": "fill",
+   "q": "Das Haus ___ gebaut. (Präsens)",
+   "answer": "wird",
+   "explain": ""
+  },
+  {
+   "type": "fill",
+   "q": "Die Briefe ___ geschrieben. (Präsens)",
+   "answer": "werden",
+   "explain": ""
+  },
+  {
+   "type": "fill",
+   "q": "Das Auto ___ repariert. (Präteritum)",
+   "answer": "wurde",
+   "explain": ""
+  },
+  {
+   "type": "translate",
+   "q": "Übersetze: The window is opened.",
+   "answer": [
+    "Das Fenster wird geöffnet"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "order",
+   "q": "Bilde den Satz.",
+   "words": [
+    "Das",
+    "Essen",
+    "wird",
+    "von",
+    "meiner",
+    "Mutter",
+    "gekocht"
+   ],
+   "answer": "Das Essen wird von meiner Mutter gekocht",
+   "explain": "von + Dativ nennt den Handelnden."
+  },
+  {
+   "type": "mc",
+   "q": "Der Kuchen ___ gestern gebacken.",
+   "options": [
+    "wurde",
+    "wird",
+    "worden"
+   ],
+   "answer": "wurde",
+   "explain": ""
+  },
+  {
+   "type": "translate",
+   "q": "Übersetze: The cars were washed.",
+   "answer": [
+    "Die Autos wurden gewaschen"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "mc",
+   "q": "Aktiv: „Man baut ein Haus.“ → Passiv:",
+   "options": [
+    "Ein Haus wird gebaut",
+    "Ein Haus wurde bauen",
+    "Ein Haus ist baut"
+   ],
+   "answer": "Ein Haus wird gebaut",
+   "explain": ""
+  }
+ ]
+}

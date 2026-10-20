@@ -1,0 +1,62 @@
+{
+ "id": "a2_comparison",
+ "level": "A2",
+ "title": "Komparativ & Superlativ",
+ "explanation": "Komparativ: -er + als (größer als). Gleichheit: so … wie. Superlativ: am -sten / der -ste. Unregelmäßig: gut–besser–am besten, gern–lieber–am liebsten, viel–mehr–am meisten.",
+ "questions": [
+  {
+   "type": "fill",
+   "q": "Berlin ist ___ als München. (groß)",
+   "answer": "größer",
+   "explain": ""
+  },
+  {
+   "type": "fill",
+   "q": "Das ist der ___ Film. (gut)",
+   "answer": "beste",
+   "explain": ""
+  },
+  {
+   "type": "fill",
+   "q": "Ich esse ___ Pizza als Pasta. (gern)",
+   "answer": "lieber",
+   "explain": ""
+  },
+  {
+   "type": "mc",
+   "q": "Er ist so groß ___ sein Vater.",
+   "options": [
+    "wie",
+    "als",
+    "denn"
+   ],
+   "answer": "wie",
+   "explain": "so … wie"
+  },
+  {
+   "type": "mc",
+   "q": "Am ___ mag ich Schokolade. (gern)",
+   "options": [
+    "liebsten",
+    "lieber",
+    "liebste"
+   ],
+   "answer": "liebsten",
+   "explain": ""
+  },
+  {
+   "type": "fill",
+   "q": "Der Zug ist ___ als das Auto. (schnell)",
+   "answer": "schneller",
+   "explain": ""
+  },
+  {
+   "type": "translate",
+   "q": "Übersetze: This is the best restaurant.",
+   "answer": [
+    "Das ist das beste Restaurant"
+   ],
+   "explain": ""
+  }
+ ]
+}

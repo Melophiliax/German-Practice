@@ -1,0 +1,10 @@
+{"id":"a1_modals","level":"A1","title":"Modalverben",
+"explanation":"Modalverb auf Position 2, Infinitiv am Satzende: Ich muss heute lernen. ich/er: kann, muss, will (ohne Endung).",
+"questions":[
+{"type":"mc","q":"Ich ___ gut Deutsch sprechen. (können)","options":["kann","kannst","können"],"answer":"kann","explain":"ich kann – 1. Person Singular ohne Endung."},
+{"type":"fill","q":"Er ___ heute arbeiten. (müssen)","answer":"muss","explain":"er muss – unregelmäßig im Singular."},
+{"type":"translate","q":"Übersetze: We want to learn German.","answer":["Wir wollen Deutsch lernen"],"explain":"wir wollen + Infinitiv am Ende."},
+{"type":"order","q":"Bilde den Satz.","words":["Ich","muss","heute","Deutsch","lernen"],"answer":"Ich muss heute Deutsch lernen","explain":"Modalverb Position 2, Infinitiv am Ende."},
+{"type":"read","passage":"Anna wohnt in Berlin. Sie muss früh aufstehen, denn sie arbeitet um 8 Uhr. Am Wochenende kann sie lange schlafen.","q":"Wann kann Anna lange schlafen?","options":["Am Wochenende","Jeden Tag","Um 8 Uhr"],"answer":"Am Wochenende"},
+{"type":"speak","q":"Sprich nach: Ich kann gut schwimmen.","answer":"Ich kann gut schwimmen"}
+]}

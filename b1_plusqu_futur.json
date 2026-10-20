@@ -1,0 +1,71 @@
+{
+ "id": "b1_plusqu_futur",
+ "level": "B1",
+ "title": "Plusquamperfekt & Futur I",
+ "explanation": "Plusquamperfekt: hatte/war + Partizip II (Vorzeitigkeit zum Präteritum). Futur I: werden + Infinitiv (Zukunft, Vermutung).",
+ "questions": [
+  {
+   "type": "fill",
+   "q": "Nachdem ich gegessen ___, ging ich spazieren. (haben)",
+   "answer": "hatte",
+   "explain": ""
+  },
+  {
+   "type": "fill",
+   "q": "Als wir ankamen, ___ der Zug schon abgefahren. (sein)",
+   "answer": "war",
+   "explain": ""
+  },
+  {
+   "type": "mc",
+   "q": "Ich ___ morgen nach Berlin fahren.",
+   "options": [
+    "werde",
+    "wurde",
+    "würde"
+   ],
+   "answer": "werde",
+   "explain": ""
+  },
+  {
+   "type": "fill",
+   "q": "Er ___ bestimmt kommen. (Vermutung)",
+   "answer": "wird",
+   "explain": ""
+  },
+  {
+   "type": "order",
+   "q": "Bilde den Satz.",
+   "words": [
+    "Ich",
+    "werde",
+    "nächstes",
+    "Jahr",
+    "in",
+    "Berlin",
+    "wohnen"
+   ],
+   "answer": "Ich werde nächstes Jahr in Berlin wohnen",
+   "explain": ""
+  },
+  {
+   "type": "translate",
+   "q": "Übersetze: I had already eaten.",
+   "answer": [
+    "Ich hatte schon gegessen"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "mc",
+   "q": "Plusquamperfekt von „gehen“ (ich):",
+   "options": [
+    "war gegangen",
+    "hatte gegangen",
+    "bin gegangen"
+   ],
+   "answer": "war gegangen",
+   "explain": ""
+  }
+ ]
+}

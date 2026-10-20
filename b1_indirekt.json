@@ -1,0 +1,54 @@
+{
+ "id": "b1_indirekt",
+ "level": "B1",
+ "title": "Indirekte Rede (Konjunktiv I/II)",
+ "explanation": "Konjunktiv I: er sei, habe, komme. Ist er identisch mit dem Indikativ (sie haben), nimmt man Konjunktiv II: sie hätten. Fragen: ob / W-Wort.",
+ "questions": [
+  {
+   "type": "fill",
+   "q": "Er sagt, er ___ krank. (sein, KI)",
+   "answer": "sei",
+   "explain": ""
+  },
+  {
+   "type": "fill",
+   "q": "Sie sagt, sie ___ keine Zeit. (haben, KI)",
+   "answer": "habe",
+   "explain": ""
+  },
+  {
+   "type": "mc",
+   "q": "Er sagte, sie ___ morgen. (kommen)",
+   "options": [
+    "komme",
+    "kam",
+    "kommen"
+   ],
+   "answer": "komme",
+   "explain": ""
+  },
+  {
+   "type": "fill",
+   "q": "Sie sagen, sie ___ müde. (sein, KI Pl.)",
+   "answer": "seien",
+   "explain": ""
+  },
+  {
+   "type": "mc",
+   "q": "Sie sagen, sie ___ keine Zeit. (haben)",
+   "options": [
+    "haben",
+    "hätten",
+    "habe"
+   ],
+   "answer": "hätten",
+   "explain": "KI „haben“ = Indikativ → KII."
+  },
+  {
+   "type": "fill",
+   "q": "Er fragte, ob ich Zeit ___. (haben, KI)",
+   "answer": "habe",
+   "explain": ""
+  }
+ ]
+}

@@ -1,0 +1,65 @@
+{
+ "id": "b1_dawo",
+ "level": "B1",
+ "title": "Da-/Wo-Komposita",
+ "explanation": "Sachen: da(r)+Präp. (darauf, dafür), Frage wo(r)+Präp. (worauf, wofür). Personen: Präp. + Pronomen (auf ihn), Frage Präp. + wen/wem (auf wen). Auch Nebensatz-Bezug: Ich warte darauf, dass …",
+ "questions": [
+  {
+   "type": "fill",
+   "q": "Ich warte auf den Bus. → Ich warte ___. (Da-Wort)",
+   "answer": "darauf",
+   "explain": ""
+  },
+  {
+   "type": "mc",
+   "q": "___ interessierst du dich? – Für Musik.",
+   "options": [
+    "Wofür",
+    "Für wen",
+    "Dafür"
+   ],
+   "answer": "Wofür",
+   "explain": ""
+  },
+  {
+   "type": "mc",
+   "q": "___ hast du Angst? – Vor meinem Chef.",
+   "options": [
+    "Vor wem",
+    "Wovor",
+    "Davor"
+   ],
+   "answer": "Vor wem",
+   "explain": ""
+  },
+  {
+   "type": "fill",
+   "q": "Ich denke oft ___, dass ich mehr lernen muss.",
+   "answer": "daran",
+   "explain": ""
+  },
+  {
+   "type": "fill",
+   "q": "Ich warte ___, dass der Bus kommt.",
+   "answer": "darauf",
+   "explain": ""
+  },
+  {
+   "type": "fill",
+   "q": "Interessierst du dich für Fußball? – Ja, ich interessiere mich ___.",
+   "answer": "dafür",
+   "explain": ""
+  },
+  {
+   "type": "mc",
+   "q": "Bei Personen fragt man:",
+   "options": [
+    "auf wen",
+    "worauf",
+    "darauf"
+   ],
+   "answer": "auf wen",
+   "explain": ""
+  }
+ ]
+}

@@ -1,0 +1,154 @@
+{
+ "id": "ex_sprachbausteine",
+ "level": "Prüfung",
+ "title": "telc Sprachbausteine (Grammatik & Wortschatz)",
+ "explanation": "In telc B1 ergänzt du Lückentexte: Teil 1 prüft Grammatik, Teil 2 Wortschatz. Lies den ganzen Satz – nicht nur das Wort vor der Lücke.",
+ "minutes": 20,
+ "ordered": true,
+ "questions": [
+  {
+   "type": "mc",
+   "q": "Lücke 1 (Grammatik)",
+   "options": [
+    "für",
+    "von",
+    "an"
+   ],
+   "answer": "für",
+   "explain": "danken für",
+   "passage": "Liebe Frau Weber,\nvielen Dank (1) Ihre Einladung. Leider kann ich (2) Samstag nicht kommen, (3) ich arbeiten muss. Wenn ich Zeit (4), würde ich gern kommen. Ich habe mich sehr (5) das Treffen gefreut.\nMit freundlichen (6)\nAnna Neumann"
+  },
+  {
+   "type": "mc",
+   "q": "Lücke 2 (Grammatik)",
+   "options": [
+    "am",
+    "im",
+    "um"
+   ],
+   "answer": "am",
+   "explain": "am Samstag",
+   "passage": "Liebe Frau Weber,\nvielen Dank (1) Ihre Einladung. Leider kann ich (2) Samstag nicht kommen, (3) ich arbeiten muss. Wenn ich Zeit (4), würde ich gern kommen. Ich habe mich sehr (5) das Treffen gefreut.\nMit freundlichen (6)\nAnna Neumann"
+  },
+  {
+   "type": "mc",
+   "q": "Lücke 3 (Grammatik)",
+   "options": [
+    "weil",
+    "obwohl",
+    "dass"
+   ],
+   "answer": "weil",
+   "explain": "Grund",
+   "passage": "Liebe Frau Weber,\nvielen Dank (1) Ihre Einladung. Leider kann ich (2) Samstag nicht kommen, (3) ich arbeiten muss. Wenn ich Zeit (4), würde ich gern kommen. Ich habe mich sehr (5) das Treffen gefreut.\nMit freundlichen (6)\nAnna Neumann"
+  },
+  {
+   "type": "mc",
+   "q": "Lücke 4 (Grammatik)",
+   "options": [
+    "hätte",
+    "habe",
+    "hatte"
+   ],
+   "answer": "hätte",
+   "explain": "Konjunktiv II",
+   "passage": "Liebe Frau Weber,\nvielen Dank (1) Ihre Einladung. Leider kann ich (2) Samstag nicht kommen, (3) ich arbeiten muss. Wenn ich Zeit (4), würde ich gern kommen. Ich habe mich sehr (5) das Treffen gefreut.\nMit freundlichen (6)\nAnna Neumann"
+  },
+  {
+   "type": "mc",
+   "q": "Lücke 5 (Grammatik)",
+   "options": [
+    "auf",
+    "über",
+    "an"
+   ],
+   "answer": "auf",
+   "explain": "sich freuen auf",
+   "passage": "Liebe Frau Weber,\nvielen Dank (1) Ihre Einladung. Leider kann ich (2) Samstag nicht kommen, (3) ich arbeiten muss. Wenn ich Zeit (4), würde ich gern kommen. Ich habe mich sehr (5) das Treffen gefreut.\nMit freundlichen (6)\nAnna Neumann"
+  },
+  {
+   "type": "mc",
+   "q": "Lücke 6 (Grammatik)",
+   "options": [
+    "Grüßen",
+    "Grüße",
+    "Gruß"
+   ],
+   "answer": "Grüßen",
+   "explain": "Mit freundlichen Grüßen",
+   "passage": "Liebe Frau Weber,\nvielen Dank (1) Ihre Einladung. Leider kann ich (2) Samstag nicht kommen, (3) ich arbeiten muss. Wenn ich Zeit (4), würde ich gern kommen. Ich habe mich sehr (5) das Treffen gefreut.\nMit freundlichen (6)\nAnna Neumann"
+  },
+  {
+   "type": "mc",
+   "q": "Lücke 1 (Wortschatz)",
+   "options": [
+    "angekommen",
+    "abgefahren",
+    "abgeholt"
+   ],
+   "answer": "angekommen",
+   "explain": "",
+   "passage": "Hallo Tim,\nich bin gestern in Hamburg (1). Die Reise war lang, weil der Zug (2) hatte. Mein Hotel liegt direkt am (3) und hat einen schönen Blick. Morgen möchte ich einen Stadtrundgang (4). Hast du Lust, mich zu (5)? Antworte mir bitte (6).\nBis bald, Jonas"
+  },
+  {
+   "type": "mc",
+   "q": "Lücke 2 (Wortschatz)",
+   "options": [
+    "Verspätung",
+    "Verbindung",
+    "Verkehr"
+   ],
+   "answer": "Verspätung",
+   "explain": "",
+   "passage": "Hallo Tim,\nich bin gestern in Hamburg (1). Die Reise war lang, weil der Zug (2) hatte. Mein Hotel liegt direkt am (3) und hat einen schönen Blick. Morgen möchte ich einen Stadtrundgang (4). Hast du Lust, mich zu (5)? Antworte mir bitte (6).\nBis bald, Jonas"
+  },
+  {
+   "type": "mc",
+   "q": "Lücke 3 (Wortschatz)",
+   "options": [
+    "Hafen",
+    "Hafer",
+    "Haken"
+   ],
+   "answer": "Hafen",
+   "explain": "",
+   "passage": "Hallo Tim,\nich bin gestern in Hamburg (1). Die Reise war lang, weil der Zug (2) hatte. Mein Hotel liegt direkt am (3) und hat einen schönen Blick. Morgen möchte ich einen Stadtrundgang (4). Hast du Lust, mich zu (5)? Antworte mir bitte (6).\nBis bald, Jonas"
+  },
+  {
+   "type": "mc",
+   "q": "Lücke 4 (Wortschatz)",
+   "options": [
+    "machen",
+    "laufen",
+    "sein"
+   ],
+   "answer": "machen",
+   "explain": "",
+   "passage": "Hallo Tim,\nich bin gestern in Hamburg (1). Die Reise war lang, weil der Zug (2) hatte. Mein Hotel liegt direkt am (3) und hat einen schönen Blick. Morgen möchte ich einen Stadtrundgang (4). Hast du Lust, mich zu (5)? Antworte mir bitte (6).\nBis bald, Jonas"
+  },
+  {
+   "type": "mc",
+   "q": "Lücke 5 (Wortschatz)",
+   "options": [
+    "begleiten",
+    "beginnen",
+    "bekommen"
+   ],
+   "answer": "begleiten",
+   "explain": "",
+   "passage": "Hallo Tim,\nich bin gestern in Hamburg (1). Die Reise war lang, weil der Zug (2) hatte. Mein Hotel liegt direkt am (3) und hat einen schönen Blick. Morgen möchte ich einen Stadtrundgang (4). Hast du Lust, mich zu (5)? Antworte mir bitte (6).\nBis bald, Jonas"
+  },
+  {
+   "type": "mc",
+   "q": "Lücke 6 (Wortschatz)",
+   "options": [
+    "bald",
+    "früh",
+    "selten"
+   ],
+   "answer": "bald",
+   "explain": "",
+   "passage": "Hallo Tim,\nich bin gestern in Hamburg (1). Die Reise war lang, weil der Zug (2) hatte. Mein Hotel liegt direkt am (3) und hat einen schönen Blick. Morgen möchte ich einen Stadtrundgang (4). Hast du Lust, mich zu (5)? Antworte mir bitte (6).\nBis bald, Jonas"
+  }
+ ]
+}

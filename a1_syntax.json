@@ -1,0 +1,97 @@
+{
+ "id": "a1_syntax",
+ "level": "A1",
+ "title": "Satzbau: W-Fragen & Ja/Nein",
+ "explanation": "Aussagesatz: Verb auf Position 2. W-Frage: W-Wort + Verb (Wo wohnst du?). Ja/Nein-Frage: Verb auf Position 1. Inversion: Heute gehe ich ins Kino.",
+ "questions": [
+  {
+   "type": "order",
+   "q": "Bilde den Satz.",
+   "words": [
+    "Wo",
+    "wohnst",
+    "du"
+   ],
+   "answer": "Wo wohnst du",
+   "explain": "W-Frage: W-Wort, Verb, Subjekt."
+  },
+  {
+   "type": "order",
+   "q": "Bilde den Satz.",
+   "words": [
+    "Kommst",
+    "du",
+    "heute",
+    "Abend"
+   ],
+   "answer": "Kommst du heute Abend",
+   "explain": "Ja/Nein-Frage: Verb an Position 1."
+  },
+  {
+   "type": "mc",
+   "q": "___ heißt du?",
+   "options": [
+    "Wie",
+    "Wo",
+    "Wer"
+   ],
+   "answer": "Wie",
+   "explain": "Wie heißt du?"
+  },
+  {
+   "type": "mc",
+   "q": "___ kommt aus Spanien? – Maria.",
+   "options": [
+    "Wer",
+    "Wo",
+    "Was"
+   ],
+   "answer": "Wer",
+   "explain": "Wer fragt nach Personen."
+  },
+  {
+   "type": "fill",
+   "q": "___ alt bist du?",
+   "answer": "Wie",
+   "explain": "Wie alt…?"
+  },
+  {
+   "type": "translate",
+   "q": "Übersetze: Where do you live?",
+   "answer": [
+    "Wo wohnst du",
+    "Wo wohnen Sie"
+   ],
+   "explain": "W-Wort + Verb + Subjekt."
+  },
+  {
+   "type": "order",
+   "q": "Bilde den Satz.",
+   "words": [
+    "Heute",
+    "gehe",
+    "ich",
+    "ins",
+    "Kino"
+   ],
+   "answer": "Heute gehe ich ins Kino",
+   "explain": "Inversion: Verb bleibt auf Position 2."
+  },
+  {
+   "type": "mc",
+   "q": "Welcher Satz ist richtig?",
+   "options": [
+    "Heute ich gehe ins Kino",
+    "Heute gehe ich ins Kino",
+    "Ich heute ins Kino gehe"
+   ],
+   "answer": "Heute gehe ich ins Kino",
+   "explain": "Verb immer Position 2."
+  },
+  {
+   "type": "speak",
+   "q": "Sprich nach: Wie heißt du?",
+   "answer": "Wie heißt du"
+  }
+ ]
+}

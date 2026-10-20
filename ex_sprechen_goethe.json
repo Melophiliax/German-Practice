@@ -1,0 +1,92 @@
+{
+ "id": "ex_sprechen_goethe",
+ "level": "Prüfung",
+ "title": "Goethe Sprechen Teil 1–3",
+ "explanation": "Teil 1: gemeinsam etwas planen (ca. 3 Min.), Teil 2: Präsentation eines Themas (ca. 3 Min.) mit Einleitung, eigener Erfahrung, Situation im Heimatland, Vor-/Nachteilen, Abschluss; Teil 3: Feedback + Frage. Sprich laut oder diktiere – dann werten wir Redemittel aus.",
+ "ordered": true,
+ "questions": [
+  {
+   "type": "talk",
+   "q": "Teil 1: Planen Sie mit Ihrem Partner eine Überraschungsparty für eine Kollegin. Besprechen Sie: Wann? Wo? Essen & Trinken? Geschenk? Wer macht was?",
+   "hint": "Sprich ca. 3 Minuten; reagiere auf deinen Partner",
+   "min": 60,
+   "checks": [
+    [
+     "Vorschlag machen",
+     "(wie wäre es|ich schlage vor|wir könnten|ich würde)"
+    ],
+    [
+     "Partner fragen",
+     "(was meinst du|was denkst du|was hältst du|hast du|\\?)"
+    ],
+    [
+     "Zustimmen",
+     "(gute idee|einverstanden|genau|das finde ich gut|ja, das)"
+    ],
+    [
+     "Einigen",
+     "(dann machen wir|also|abgemacht|okay)"
+    ],
+    [
+     "Aufgaben verteilen",
+     "(ich kümmere mich|ich übernehme|ich kaufe|ich bringe|du kannst)"
+    ]
+   ],
+   "model": "Wie wäre es, wenn wir die Party am Freitagabend machen? Was meinst du? – Gute Idee. Wir könnten sie im Büro feiern, dann kommen alle Kollegen. Hast du eine Idee für das Essen? Ich schlage vor, dass jeder etwas mitbringt. Einverstanden. Ich kümmere mich um den Kuchen und du kaufst die Getränke. Also machen wir es so!"
+  },
+  {
+   "type": "talk",
+   "q": "Teil 2: Thema „Fernsehen und Medien in meinem Land“. Gliedern Sie: Einleitung, persönliche Erfahrung, Situation im Heimatland, Vor- und Nachteile, Abschluss.",
+   "hint": "Präsentation ca. 3 Minuten",
+   "min": 80,
+   "checks": [
+    [
+     "Einleitung (Ich möchte über … sprechen)",
+     "(ich möchte|mein thema|ich spreche|heute spreche)"
+    ],
+    [
+     "Eigene Erfahrung",
+     "(ich selbst|bei mir|ich sehe|ich schaue|meine erfahrung)"
+    ],
+    [
+     "Heimatland",
+     "(in meinem land|in meiner heimat|bei uns|in indien|in deutschland)"
+    ],
+    [
+     "Vorteil",
+     "(vorteil|positiv|gut ist)"
+    ],
+    [
+     "Nachteil",
+     "(nachteil|negativ|schlecht ist|problem)"
+    ],
+    [
+     "Abschluss + Dank",
+     "(zum schluss|abschließend|danke|vielen dank)"
+    ]
+   ],
+   "model": "Ich möchte heute über Fernsehen und Medien in meinem Land sprechen. Zuerst erzähle ich von mir: Ich sehe abends gern Nachrichten. In meinem Land schauen viele Familien gemeinsam fern. Ein Vorteil ist, dass man schnell informiert wird. Ein Nachteil ist, dass viele Sendungen Werbung haben und man viel Zeit verliert. Zum Schluss möchte ich sagen: Medien sind wichtig, aber man sollte sie bewusst nutzen. Vielen Dank für Ihre Aufmerksamkeit."
+  },
+  {
+   "type": "talk",
+   "q": "Teil 3: Ihr Partner hat eine Präsentation gehalten. Bedanken Sie sich, stellen Sie eine Frage und sagen Sie, was Ihnen gefallen hat.",
+   "hint": "Reagiere ca. 1 Minute",
+   "min": 25,
+   "checks": [
+    [
+     "Bedanken",
+     "(danke|vielen dank)"
+    ],
+    [
+     "Frage stellen",
+     "(\\?|wie|warum|wann|was)"
+    ],
+    [
+     "Feedback",
+     "(interessant|gut gefallen|gefallen|toll|spannend)"
+    ]
+   ],
+   "model": "Vielen Dank für deine Präsentation. Sie war sehr interessant und hat mir gut gefallen. Ich habe eine Frage: Wie oft siehst du denn fern?"
+  }
+ ]
+}

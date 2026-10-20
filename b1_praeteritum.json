@@ -1,0 +1,57 @@
+{
+ "id": "b1_praeteritum",
+ "level": "B1",
+ "title": "Präteritum (starke & gemischte Verben)",
+ "explanation": "Schriftsprache/Erzählung. Stark: lesen–las, gehen–ging, geben–gab, nehmen–nahm. Schwach: wohnen–wohnte. Gemischt: kennen–kannte, denken–dachte, bringen–brachte, wissen–wusste.",
+ "questions": [
+  {
+   "type": "fill",
+   "q": "Er ___ gestern ein Buch. (lesen)",
+   "answer": "las",
+   "explain": ""
+  },
+  {
+   "type": "fill",
+   "q": "Wir ___ nach Hause. (gehen)",
+   "answer": "gingen",
+   "explain": ""
+  },
+  {
+   "type": "fill",
+   "q": "Sie ___ in Berlin. (wohnen)",
+   "answer": "wohnte",
+   "explain": ""
+  },
+  {
+   "type": "fill",
+   "q": "Ich ___ ihn nicht. (kennen)",
+   "answer": "kannte",
+   "explain": ""
+  },
+  {
+   "type": "fill",
+   "q": "Sie ___ ihm das Buch. (geben)",
+   "answer": "gab",
+   "explain": ""
+  },
+  {
+   "type": "mc",
+   "q": "Präteritum von „denken“ (er):",
+   "options": [
+    "dachte",
+    "denkte",
+    "gedacht"
+   ],
+   "answer": "dachte",
+   "explain": ""
+  },
+  {
+   "type": "translate",
+   "q": "Übersetze: He took the bus.",
+   "answer": [
+    "Er nahm den Bus"
+   ],
+   "explain": ""
+  }
+ ]
+}

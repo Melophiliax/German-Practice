@@ -1,0 +1,74 @@
+{
+ "id": "v_wohnen",
+ "level": "B1",
+ "title": "Wortschatz: Wohnen",
+ "explanation": "Goethe-B1-Wortschatz zum Thema. Lerne Nomen immer mit Artikel und Plural.",
+ "questions": [
+  {
+   "type": "mc",
+   "q": "Was ist die „Kaution“?",
+   "options": [
+    "deposit",
+    "rent",
+    "heating"
+   ],
+   "answer": "deposit",
+   "explain": ""
+  },
+  {
+   "type": "mc",
+   "q": "___ Miete",
+   "options": [
+    "die",
+    "der",
+    "das"
+   ],
+   "answer": "die",
+   "explain": ""
+  },
+  {
+   "type": "mc",
+   "q": "Wir sind letzte Woche ___.",
+   "options": [
+    "umgezogen",
+    "umgezogt",
+    "gezogen um"
+   ],
+   "answer": "umgezogen",
+   "explain": ""
+  },
+  {
+   "type": "mc",
+   "q": "Nebenkosten sind:",
+   "options": [
+    "utilities/service charges",
+    "furniture",
+    "neighbours"
+   ],
+   "answer": "utilities/service charges",
+   "explain": ""
+  },
+  {
+   "type": "mc",
+   "q": "___ Vermieter",
+   "options": [
+    "der",
+    "die",
+    "das"
+   ],
+   "answer": "der",
+   "explain": ""
+  },
+  {
+   "type": "mc",
+   "q": "Die Wohnung hat einen ___ .",
+   "options": [
+    "Balkon",
+    "Boden",
+    "Berg"
+   ],
+   "answer": "Balkon",
+   "explain": ""
+  }
+ ]
+}

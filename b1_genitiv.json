@@ -1,0 +1,69 @@
+{
+ "id": "b1_genitiv",
+ "level": "B1",
+ "title": "Genitiv",
+ "explanation": "Genitiv: des (m/n) + -s/-es, der (f/Pl.). Präpositionen: wegen, trotz, während, statt.",
+ "questions": [
+  {
+   "type": "mc",
+   "q": "Wegen ___ Regens bleiben wir zu Hause.",
+   "options": [
+    "des",
+    "dem",
+    "den"
+   ],
+   "answer": "des",
+   "explain": ""
+  },
+  {
+   "type": "fill",
+   "q": "Trotz ___ Kälte gehen wir spazieren. (die Kälte)",
+   "answer": "der",
+   "explain": ""
+  },
+  {
+   "type": "mc",
+   "q": "Das ist das Auto ___ Lehrers.",
+   "options": [
+    "des",
+    "dem",
+    "der"
+   ],
+   "answer": "des",
+   "explain": ""
+  },
+  {
+   "type": "mc",
+   "q": "Während ___ Ferien lese ich viel.",
+   "options": [
+    "der",
+    "die",
+    "den"
+   ],
+   "answer": "der",
+   "explain": ""
+  },
+  {
+   "type": "translate",
+   "q": "Übersetze: Because of the weather we stay home.",
+   "answer": [
+    "Wegen des Wetters bleiben wir zu Hause"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "order",
+   "q": "Bilde den Satz.",
+   "words": [
+    "Trotz",
+    "des",
+    "Regens",
+    "gehen",
+    "wir",
+    "spazieren"
+   ],
+   "answer": "Trotz des Regens gehen wir spazieren",
+   "explain": ""
+  }
+ ]
+}

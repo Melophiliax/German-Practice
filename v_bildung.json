@@ -1,0 +1,74 @@
+{
+ "id": "v_bildung",
+ "level": "B1",
+ "title": "Wortschatz: Bildung & Ausbildung",
+ "explanation": "Goethe-B1-Wortschatz zum Thema. Lerne Nomen immer mit Artikel und Plural.",
+ "questions": [
+  {
+   "type": "mc",
+   "q": "Ich habe die Prüfung ___.",
+   "options": [
+    "bestanden",
+    "gestanden",
+    "verstanden"
+   ],
+   "answer": "bestanden",
+   "explain": ""
+  },
+  {
+   "type": "mc",
+   "q": "___ Abschluss",
+   "options": [
+    "der",
+    "die",
+    "das"
+   ],
+   "answer": "der",
+   "explain": ""
+  },
+  {
+   "type": "mc",
+   "q": "sich anmelden bedeutet:",
+   "options": [
+    "to register",
+    "to cancel",
+    "to teach"
+   ],
+   "answer": "to register",
+   "explain": ""
+  },
+  {
+   "type": "mc",
+   "q": "Die ___ beginnt im Oktober. (lecture)",
+   "options": [
+    "Vorlesung",
+    "Vorlage",
+    "Vorsicht"
+   ],
+   "answer": "Vorlesung",
+   "explain": ""
+  },
+  {
+   "type": "mc",
+   "q": "Fortbildung bedeutet:",
+   "options": [
+    "further training",
+    "kindergarten",
+    "holiday"
+   ],
+   "answer": "further training",
+   "explain": ""
+  },
+  {
+   "type": "mc",
+   "q": "Er macht eine ___ als Mechaniker.",
+   "options": [
+    "Ausbildung",
+    "Ausstellung",
+    "Aussage"
+   ],
+   "answer": "Ausbildung",
+   "explain": ""
+  }
+ ]
+}

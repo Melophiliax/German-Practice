@@ -1,0 +1,10 @@
+{"id":"a2_dativ","level":"A2","title":"Dativ & Wechselpräpositionen",
+"explanation":"Dativ: dem (m/n), der (f), den + -n (Pl.). Nach mit, von, zu, bei, nach, aus, seit immer Dativ. Wechselpräpositionen: Wo? → Dativ, Wohin? → Akkusativ.",
+"questions":[
+{"type":"mc","q":"Ich helfe ___ Mann.","options":["dem","den","der"],"answer":"dem","explain":"helfen verlangt den Dativ; Mann ist maskulin → dem."},
+{"type":"mc","q":"Das Bild hängt an ___ Wand. (Wo?)","options":["die","der","den"],"answer":"der","explain":"Wo? = Position → Dativ; Wand ist feminin → der."},
+{"type":"mc","q":"Ich hänge das Bild an ___ Wand. (Wohin?)","options":["die","der","dem"],"answer":"die","explain":"Wohin? = Richtung → Akkusativ → die Wand."},
+{"type":"fill","q":"Sie fährt mit ___ Bus. (der Bus)","answer":"dem","explain":"mit + Dativ immer: dem Bus."},
+{"type":"translate","q":"Übersetze: I gave the child a book.","answer":["Ich habe dem Kind ein Buch gegeben","Ich gab dem Kind ein Buch"],"explain":"Indirektes Objekt (Person) im Dativ: dem Kind."},
+{"type":"order","q":"Bilde den Satz.","words":["Ich","gebe","dem","Kind","einen","Apfel"],"answer":"Ich gebe dem Kind einen Apfel","explain":"Dativ (Person) vor Akkusativ (Sache)."}
+]}

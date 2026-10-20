@@ -1,0 +1,84 @@
+{
+ "id": "b1_temporal",
+ "level": "B1",
+ "title": "Temporalsätze (als, wenn, bevor, nachdem …)",
+ "explanation": "als = einmalige Vergangenheit, wenn = Gegenwart/Zukunft/wiederholt. bevor, nachdem (+ Plusquamperfekt), während, bis, seit(dem), sobald. Verb am Ende.",
+ "questions": [
+  {
+   "type": "mc",
+   "q": "___ ich ein Kind war, wohnte ich in Wien.",
+   "options": [
+    "Als",
+    "Wenn",
+    "Während"
+   ],
+   "answer": "Als",
+   "explain": ""
+  },
+  {
+   "type": "mc",
+   "q": "___ ich Zeit habe, rufe ich dich an.",
+   "options": [
+    "Wenn",
+    "Als",
+    "Bevor"
+   ],
+   "answer": "Wenn",
+   "explain": ""
+  },
+  {
+   "type": "fill",
+   "q": "___ ich nach Hause gehe, kaufe ich Brot. (vor dem)",
+   "answer": "Bevor",
+   "explain": ""
+  },
+  {
+   "type": "fill",
+   "q": "___ ich gegessen hatte, ging ich spazieren.",
+   "answer": "Nachdem",
+   "explain": ""
+  },
+  {
+   "type": "mc",
+   "q": "Ich warte, ___ du kommst.",
+   "options": [
+    "bis",
+    "seit",
+    "bevor"
+   ],
+   "answer": "bis",
+   "explain": ""
+  },
+  {
+   "type": "fill",
+   "q": "___ ich in Berlin wohne, lerne ich Deutsch.",
+   "answer": "Seit",
+   "explain": ""
+  },
+  {
+   "type": "order",
+   "q": "Bilde den Satz.",
+   "words": [
+    "Während",
+    "ich",
+    "koche",
+    "hört",
+    "er",
+    "Musik"
+   ],
+   "answer": "Während ich koche hört er Musik",
+   "explain": ""
+  },
+  {
+   "type": "mc",
+   "q": "Ich rufe dich an, ___ ich angekommen bin.",
+   "options": [
+    "sobald",
+    "obwohl",
+    "damit"
+   ],
+   "answer": "sobald",
+   "explain": ""
+  }
+ ]
+}

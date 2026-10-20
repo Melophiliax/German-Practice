@@ -1,0 +1,70 @@
+{
+ "id": "ex_lesen3",
+ "level": "Prüfung",
+ "title": "Goethe Lesen Teil 3: Anzeigen zuordnen",
+ "explanation": "Ordne jeder Person die passende Anzeige zu. Achte auf Details (Preis, Tag, Anmeldung). Eine Anzeige kann zu keiner Person passen.",
+ "minutes": 10,
+ "ordered": true,
+ "questions": [
+  {
+   "type": "mc",
+   "q": "Lena möchte besser Deutsch sprechen, hat aber wenig Geld.",
+   "options": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "f"
+   ],
+   "answer": "a",
+   "explain": "Sprachcafé: Eintritt frei.",
+   "passage": "a) Sprachcafé: Jeden Mittwoch Deutsch sprechen mit Muttersprachlern. Eintritt frei.\nb) Fahrradwerkstatt Müller: Reparaturen schnell und günstig, auch am Wochenende.\nc) Kochkurs „Italienische Küche“: Samstag 10–14 Uhr, 45 Euro inkl. Essen.\nd) Yoga im Park: Sommerkurs, dienstags 18 Uhr, keine Anmeldung nötig.\ne) Nachhilfe Mathe: Studentin gibt Nachhilfe für Schüler, 15 Euro/Stunde.\nf) Umzugsservice Blitz: Wir transportieren Ihre Möbel. Festpreis."
+  },
+  {
+   "type": "mc",
+   "q": "Tom braucht sein Fahrrad am Sonntag repariert.",
+   "options": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "f"
+   ],
+   "answer": "b",
+   "explain": "Werkstatt: auch am Wochenende.",
+   "passage": "a) Sprachcafé: Jeden Mittwoch Deutsch sprechen mit Muttersprachlern. Eintritt frei.\nb) Fahrradwerkstatt Müller: Reparaturen schnell und günstig, auch am Wochenende.\nc) Kochkurs „Italienische Küche“: Samstag 10–14 Uhr, 45 Euro inkl. Essen.\nd) Yoga im Park: Sommerkurs, dienstags 18 Uhr, keine Anmeldung nötig.\ne) Nachhilfe Mathe: Studentin gibt Nachhilfe für Schüler, 15 Euro/Stunde.\nf) Umzugsservice Blitz: Wir transportieren Ihre Möbel. Festpreis."
+  },
+  {
+   "type": "mc",
+   "q": "Klaus zieht um und hat ein schweres Sofa.",
+   "options": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "f"
+   ],
+   "answer": "f",
+   "explain": "Umzugsservice.",
+   "passage": "a) Sprachcafé: Jeden Mittwoch Deutsch sprechen mit Muttersprachlern. Eintritt frei.\nb) Fahrradwerkstatt Müller: Reparaturen schnell und günstig, auch am Wochenende.\nc) Kochkurs „Italienische Küche“: Samstag 10–14 Uhr, 45 Euro inkl. Essen.\nd) Yoga im Park: Sommerkurs, dienstags 18 Uhr, keine Anmeldung nötig.\ne) Nachhilfe Mathe: Studentin gibt Nachhilfe für Schüler, 15 Euro/Stunde.\nf) Umzugsservice Blitz: Wir transportieren Ihre Möbel. Festpreis."
+  },
+  {
+   "type": "mc",
+   "q": "Sara möchte abends entspannen, ohne einen Termin zu buchen.",
+   "options": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "f"
+   ],
+   "answer": "d",
+   "explain": "Yoga: keine Anmeldung nötig.",
+   "passage": "a) Sprachcafé: Jeden Mittwoch Deutsch sprechen mit Muttersprachlern. Eintritt frei.\nb) Fahrradwerkstatt Müller: Reparaturen schnell und günstig, auch am Wochenende.\nc) Kochkurs „Italienische Küche“: Samstag 10–14 Uhr, 45 Euro inkl. Essen.\nd) Yoga im Park: Sommerkurs, dienstags 18 Uhr, keine Anmeldung nötig.\ne) Nachhilfe Mathe: Studentin gibt Nachhilfe für Schüler, 15 Euro/Stunde.\nf) Umzugsservice Blitz: Wir transportieren Ihre Möbel. Festpreis."
+  }
+ ]
+}

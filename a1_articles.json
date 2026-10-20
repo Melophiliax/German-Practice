@@ -1,0 +1,11 @@
+{"id":"a1_articles","level":"A1","title":"Nomen & Artikel",
+"explanation":"Jedes Nomen hat ein Genus: der (m), die (f), das (n). Im Akkusativ ändert sich nur der Maskulin: der → den, ein → einen.",
+"questions":[
+{"type":"mc","q":"___ Tisch ist neu.","options":["der","die","das"],"answer":"der","explain":"Tisch ist maskulin: der Tisch."},
+{"type":"mc","q":"Ich habe ___ Hund.","options":["ein","einen","eine"],"answer":"einen","explain":"Akkusativ Maskulin: ein → einen."},
+{"type":"fill","q":"Ich sehe ___ Frau. (bestimmter Artikel, Akk.)","answer":"die","explain":"Feminin bleibt im Akkusativ unverändert: die."},
+{"type":"translate","q":"Übersetze: I have a dog.","answer":["Ich habe einen Hund"],"explain":"haben + Akkusativ → einen Hund."},
+{"type":"order","q":"Bilde den Satz.","words":["Ich","trinke","einen","Kaffee"],"answer":"Ich trinke einen Kaffee","explain":"Verb auf Position 2."},
+{"type":"listen","q":"Welcher Artikel passt?","audio":"Das ist die Lampe.","options":["der","die","das"],"answer":"die"},
+{"type":"speak","q":"Sprich nach: Der Mann hat einen Hund.","answer":"Der Mann hat einen Hund"}
+]}

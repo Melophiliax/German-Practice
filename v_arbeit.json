@@ -1,0 +1,74 @@
+{
+ "id": "v_arbeit",
+ "level": "B1",
+ "title": "Wortschatz: Arbeit & Beruf",
+ "explanation": "Goethe-B1-Wortschatz zum Thema. Lerne Nomen immer mit Artikel und Plural.",
+ "questions": [
+  {
+   "type": "mc",
+   "q": "Was bedeutet „die Bewerbung“?",
+   "options": [
+    "application",
+    "interview",
+    "contract"
+   ],
+   "answer": "application",
+   "explain": ""
+  },
+  {
+   "type": "mc",
+   "q": "___ Lebenslauf",
+   "options": [
+    "der",
+    "die",
+    "das"
+   ],
+   "answer": "der",
+   "explain": ""
+  },
+  {
+   "type": "mc",
+   "q": "Was ist ein „Vorstellungsgespräch“?",
+   "options": [
+    "job interview",
+    "salary",
+    "vacation"
+   ],
+   "answer": "job interview",
+   "explain": ""
+  },
+  {
+   "type": "mc",
+   "q": "Er bekommt ein hohes ___.",
+   "options": [
+    "Gehalt",
+    "Gewalt",
+    "Gesetz"
+   ],
+   "answer": "Gehalt",
+   "explain": ""
+  },
+  {
+   "type": "mc",
+   "q": "kündigen bedeutet:",
+   "options": [
+    "den Job aufgeben/beenden",
+    "einstellen",
+    "verdienen"
+   ],
+   "answer": "den Job aufgeben/beenden",
+   "explain": ""
+  },
+  {
+   "type": "mc",
+   "q": "___ Praktikum",
+   "options": [
+    "das",
+    "der",
+    "die"
+   ],
+   "answer": "das",
+   "explain": ""
+  }
+ ]
+}

@@ -1,0 +1,74 @@
+{
+ "id": "v_gefuehle",
+ "level": "B1",
+ "title": "Wortschatz: Beziehungen & Gefühle",
+ "explanation": "Goethe-B1-Wortschatz zum Thema. Lerne Nomen immer mit Artikel und Plural.",
+ "questions": [
+  {
+   "type": "mc",
+   "q": "sich streiten bedeutet:",
+   "options": [
+    "to argue",
+    "to meet",
+    "to laugh"
+   ],
+   "answer": "to argue",
+   "explain": ""
+  },
+  {
+   "type": "mc",
+   "q": "Ich bin ___ vom Ergebnis. (disappointed)",
+   "options": [
+    "enttäuscht",
+    "entschuldigt",
+    "entspannt"
+   ],
+   "answer": "enttäuscht",
+   "explain": ""
+  },
+  {
+   "type": "mc",
+   "q": "___ Freundschaft",
+   "options": [
+    "die",
+    "der",
+    "das"
+   ],
+   "answer": "die",
+   "explain": ""
+  },
+  {
+   "type": "mc",
+   "q": "sich verloben bedeutet:",
+   "options": [
+    "to get engaged",
+    "to lose",
+    "to meet"
+   ],
+   "answer": "to get engaged",
+   "explain": ""
+  },
+  {
+   "type": "mc",
+   "q": "eifersüchtig bedeutet:",
+   "options": [
+    "jealous",
+    "curious",
+    "lazy"
+   ],
+   "answer": "jealous",
+   "explain": ""
+  },
+  {
+   "type": "mc",
+   "q": "Er ist sehr ___; er hat vor allem Angst.",
+   "options": [
+    "ängstlich",
+    "ärgerlich",
+    "artig"
+   ],
+   "answer": "ängstlich",
+   "explain": ""
+  }
+ ]
+}

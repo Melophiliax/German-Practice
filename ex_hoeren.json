@@ -1,0 +1,113 @@
+{
+ "id": "ex_hoeren",
+ "level": "Prüfung",
+ "title": "Hören Teil 1–4 (Goethe) / Hörverstehen (telc)",
+ "explanation": "Drücke „Anhören“ (browser-generierte Stimme, evtl. nur eine Stimme für alle Sprecher). Im Original hörst du Teil 1 und 4 zweimal, Teil 2 und 3 einmal – übe also, nach dem ersten Hören zu antworten. Lies die Fragen vorher.",
+ "ordered": true,
+ "questions": [
+  {
+   "type": "listen",
+   "q": "Teil 1: Warum kann Markus nicht um sieben kommen?",
+   "options": [
+    "Er muss arbeiten.",
+    "Er ist krank.",
+    "Er hat keine Karten."
+   ],
+   "answer": "Er muss arbeiten.",
+   "explain": "",
+   "audio": "Hallo Tina, hier ist Markus. Ich kann leider nicht um sieben ins Kino kommen, weil ich noch arbeiten muss. Ich schaffe es erst um halb neun. Wenn du willst, kaufe ich die Karten für die spätere Vorstellung. Ruf mich bitte zurück."
+  },
+  {
+   "type": "listen",
+   "q": "Teil 1: Was soll Tina tun?",
+   "options": [
+    "Markus zurückrufen",
+    "Karten kaufen",
+    "um sieben kommen"
+   ],
+   "answer": "Markus zurückrufen",
+   "explain": "",
+   "audio": "Hallo Tina, hier ist Markus. Ich kann leider nicht um sieben ins Kino kommen, weil ich noch arbeiten muss. Ich schaffe es erst um halb neun. Wenn du willst, kaufe ich die Karten für die spätere Vorstellung. Ruf mich bitte zurück."
+  },
+  {
+   "type": "listen",
+   "q": "Teil 2: Wo beginnt die Führung?",
+   "options": [
+    "im Erdgeschoss",
+    "im Café",
+    "an der Garderobe"
+   ],
+   "answer": "im Erdgeschoss",
+   "explain": "",
+   "audio": "Liebe Gäste, herzlich willkommen im Stadtmuseum. Die Führung beginnt in zehn Minuten im Erdgeschoss. Fotografieren ist nur ohne Blitz erlaubt. Rucksäcke geben Sie bitte an der Garderobe ab. Nach der Führung können Sie im Café im ersten Stock etwas trinken."
+  },
+  {
+   "type": "listen",
+   "q": "Teil 2: Was ist verboten?",
+   "options": [
+    "Fotografieren mit Blitz",
+    "Fotografieren",
+    "Rucksäcke"
+   ],
+   "answer": "Fotografieren mit Blitz",
+   "explain": "",
+   "audio": "Liebe Gäste, herzlich willkommen im Stadtmuseum. Die Führung beginnt in zehn Minuten im Erdgeschoss. Fotografieren ist nur ohne Blitz erlaubt. Rucksäcke geben Sie bitte an der Garderobe ab. Nach der Führung können Sie im Café im ersten Stock etwas trinken."
+  },
+  {
+   "type": "listen",
+   "q": "Teil 3: Peter zieht wegen einer neuen Arbeit um.",
+   "options": [
+    "Ja",
+    "Nein"
+   ],
+   "answer": "Ja",
+   "explain": "",
+   "audio": "Anna: Hast du schon gehört? Peter zieht nach München. Ben: Wirklich? Warum? Anna: Er hat dort eine neue Stelle gefunden. Aber er findet die Mieten sehr teuer. Ben: Das stimmt. Ich würde auch nicht gern dorthin ziehen. Ich bleibe lieber in Leipzig."
+  },
+  {
+   "type": "listen",
+   "q": "Teil 3: Ben möchte nach München ziehen.",
+   "options": [
+    "Ja",
+    "Nein"
+   ],
+   "answer": "Nein",
+   "explain": "",
+   "audio": "Anna: Hast du schon gehört? Peter zieht nach München. Ben: Wirklich? Warum? Anna: Er hat dort eine neue Stelle gefunden. Aber er findet die Mieten sehr teuer. Ben: Das stimmt. Ich würde auch nicht gern dorthin ziehen. Ich bleibe lieber in Leipzig."
+  },
+  {
+   "type": "listen",
+   "q": "Teil 4: Frau Keller ist gegen Handys im Unterricht.",
+   "options": [
+    "Ja",
+    "Nein"
+   ],
+   "answer": "Ja",
+   "explain": "",
+   "audio": "Moderator: Heute sprechen wir über Handys in der Schule. Frau Keller, Lehrerin: Ich finde, Handys sollten im Unterricht verboten sein, weil sie die Schüler ablenken. Herr Braun, Vater: Ich sehe das anders. Handys können beim Lernen helfen, zum Beispiel für Recherchen. Wichtig ist, dass klare Regeln gelten."
+  },
+  {
+   "type": "listen",
+   "q": "Teil 4: Herr Braun hält Handys für nutzlos.",
+   "options": [
+    "Ja",
+    "Nein"
+   ],
+   "answer": "Nein",
+   "explain": "",
+   "audio": "Moderator: Heute sprechen wir über Handys in der Schule. Frau Keller, Lehrerin: Ich finde, Handys sollten im Unterricht verboten sein, weil sie die Schüler ablenken. Herr Braun, Vater: Ich sehe das anders. Handys können beim Lernen helfen, zum Beispiel für Recherchen. Wichtig ist, dass klare Regeln gelten."
+  },
+  {
+   "type": "listen",
+   "q": "Teil 4: Was ist Herrn Braun wichtig?",
+   "options": [
+    "klare Regeln",
+    "Handyverbot",
+    "mehr Hausaufgaben"
+   ],
+   "answer": "klare Regeln",
+   "explain": "",
+   "audio": "Moderator: Heute sprechen wir über Handys in der Schule. Frau Keller, Lehrerin: Ich finde, Handys sollten im Unterricht verboten sein, weil sie die Schüler ablenken. Herr Braun, Vater: Ich sehe das anders. Handys können beim Lernen helfen, zum Beispiel für Recherchen. Wichtig ist, dass klare Regeln gelten."
+  }
+ ]
+}

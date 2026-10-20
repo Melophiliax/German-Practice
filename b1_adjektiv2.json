@@ -1,0 +1,55 @@
+{
+ "id": "b1_adjektiv2",
+ "level": "B1",
+ "title": "Adjektivdeklination vollständig",
+ "explanation": "Ohne Artikel: Endung des Artikels (kaltes Wasser, frische Milch). Genitiv: -en (des schlechten Wetters). Komparativ attributiv: ein größeres Problem. Superlativ: der beste Freund.",
+ "questions": [
+  {
+   "type": "fill",
+   "q": "kalt___ Wasser (Nom. n, nur Endung)",
+   "answer": "es",
+   "explain": ""
+  },
+  {
+   "type": "fill",
+   "q": "Wegen des schlecht___ Wetters bleiben wir. (nur Endung)",
+   "answer": "en",
+   "explain": ""
+  },
+  {
+   "type": "fill",
+   "q": "Ich trinke kalt___ Milch. (Akk. f, nur Endung)",
+   "answer": "e",
+   "explain": ""
+  },
+  {
+   "type": "fill",
+   "q": "Mit frisch___ Obst. (Dativ n, nur Endung)",
+   "answer": "em",
+   "explain": ""
+  },
+  {
+   "type": "fill",
+   "q": "Das ist ein größ___ Problem. (nur Endung)",
+   "answer": "eres",
+   "explain": ""
+  },
+  {
+   "type": "fill",
+   "q": "der best___ Freund (nur Endung)",
+   "answer": "e",
+   "explain": ""
+  },
+  {
+   "type": "mc",
+   "q": "Alle klein___ Kinder spielen.",
+   "options": [
+    "en",
+    "e",
+    "er"
+   ],
+   "answer": "en",
+   "explain": "nach alle: -en"
+  }
+ ]
+}

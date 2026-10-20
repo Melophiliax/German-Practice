@@ -1,0 +1,75 @@
+{
+ "id": "a2_praeteritum",
+ "level": "A2",
+ "title": "Präteritum: sein, haben, Modalverben",
+ "explanation": "sein: war, warst, war, waren, wart, waren. haben: hatte… Modalverben: konnte, musste, wollte, sollte, durfte (kein Umlaut).",
+ "questions": [
+  {
+   "type": "fill",
+   "q": "Gestern ___ ich krank. (sein)",
+   "answer": "war",
+   "explain": ""
+  },
+  {
+   "type": "fill",
+   "q": "Wir ___ keine Zeit. (haben, Prät.)",
+   "answer": "hatten",
+   "explain": ""
+  },
+  {
+   "type": "fill",
+   "q": "Er ___ nicht kommen. (können, Prät.)",
+   "answer": "konnte",
+   "explain": "Ohne Umlaut."
+  },
+  {
+   "type": "mc",
+   "q": "Ich ___ gestern arbeiten. (müssen)",
+   "options": [
+    "musste",
+    "muss",
+    "müsste"
+   ],
+   "answer": "musste",
+   "explain": ""
+  },
+  {
+   "type": "mc",
+   "q": "Sie ___ im Urlaub. (sie pl., sein)",
+   "options": [
+    "waren",
+    "war",
+    "wart"
+   ],
+   "answer": "waren",
+   "explain": ""
+  },
+  {
+   "type": "translate",
+   "q": "Übersetze: I had to work yesterday.",
+   "answer": [
+    "Ich musste gestern arbeiten"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "order",
+   "q": "Bilde den Satz.",
+   "words": [
+    "Wir",
+    "wollten",
+    "ins",
+    "Kino",
+    "gehen"
+   ],
+   "answer": "Wir wollten ins Kino gehen",
+   "explain": "Modalverb Position 2, Infinitiv am Ende."
+  },
+  {
+   "type": "fill",
+   "q": "Du ___ gestern müde. (sein)",
+   "answer": "warst",
+   "explain": ""
+  }
+ ]
+}

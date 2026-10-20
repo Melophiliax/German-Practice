@@ -1,0 +1,62 @@
+{
+ "id": "a2_perfekt",
+ "level": "A2",
+ "title": "Perfekt",
+ "explanation": "haben/sein + Partizip II. sein bei Bewegung/Zustandsänderung (gehen, fahren, bleiben, sein). Trennbar: angerufen; regelmäßig: gemacht; unregelmäßig: getrunken.",
+ "questions": [
+  {
+   "type": "fill",
+   "q": "Ich habe einen Kaffee ___. (trinken)",
+   "answer": "getrunken",
+   "explain": ""
+  },
+  {
+   "type": "fill",
+   "q": "Sie ist nach Wien ___. (fahren)",
+   "answer": "gefahren",
+   "explain": ""
+  },
+  {
+   "type": "fill",
+   "q": "Wir haben ihn ___. (anrufen)",
+   "answer": "angerufen",
+   "explain": ""
+  },
+  {
+   "type": "fill",
+   "q": "Er hat das Buch ___. (kaufen)",
+   "answer": "gekauft",
+   "explain": ""
+  },
+  {
+   "type": "mc",
+   "q": "Ich ___ gestern lange geschlafen.",
+   "options": [
+    "habe",
+    "bin",
+    "werde"
+   ],
+   "answer": "habe",
+   "explain": ""
+  },
+  {
+   "type": "order",
+   "q": "Bilde den Satz.",
+   "words": [
+    "Ich",
+    "habe",
+    "gestern",
+    "Deutsch",
+    "gelernt"
+   ],
+   "answer": "Ich habe gestern Deutsch gelernt",
+   "explain": "Partizip II am Ende."
+  },
+  {
+   "type": "fill",
+   "q": "Wir haben die Hausaufgaben ___. (machen)",
+   "answer": "gemacht",
+   "explain": ""
+  }
+ ]
+}

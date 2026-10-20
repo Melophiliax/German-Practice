@@ -1,0 +1,90 @@
+{
+ "id": "b1_vocab",
+ "level": "B1",
+ "title": "Goethe B1 Wortschatz",
+ "explanation": "Nomen immer mit Artikel und Plural lernen. -ung, -heit, -keit, -schaft → feminin; -nis → meist neutrum.",
+ "questions": [
+  {
+   "type": "mc",
+   "q": "___ Ergebnis",
+   "options": [
+    "der",
+    "die",
+    "das"
+   ],
+   "answer": "das",
+   "explain": "-nis → neutrum"
+  },
+  {
+   "type": "mc",
+   "q": "___ Erfahrung",
+   "options": [
+    "der",
+    "die",
+    "das"
+   ],
+   "answer": "die",
+   "explain": "-ung → feminin"
+  },
+  {
+   "type": "mc",
+   "q": "___ Gesellschaft",
+   "options": [
+    "der",
+    "die",
+    "das"
+   ],
+   "answer": "die",
+   "explain": ""
+  },
+  {
+   "type": "mc",
+   "q": "Plural von „der Vorschlag“?",
+   "options": [
+    "Vorschläge",
+    "Vorschlags",
+    "Vorschlagen"
+   ],
+   "answer": "Vorschläge",
+   "explain": ""
+  },
+  {
+   "type": "mc",
+   "q": "Plural von „das Ergebnis“?",
+   "options": [
+    "Ergebnisse",
+    "Ergebnisen",
+    "Ergebnis"
+   ],
+   "answer": "Ergebnisse",
+   "explain": ""
+  },
+  {
+   "type": "mc",
+   "q": "Was bedeutet „die Voraussetzung“?",
+   "options": [
+    "prerequisite",
+    "suggestion",
+    "experience"
+   ],
+   "answer": "prerequisite",
+   "explain": ""
+  },
+  {
+   "type": "listen",
+   "q": "Welches Wort hörst du?",
+   "audio": "Die Gesellschaft verändert sich.",
+   "options": [
+    "Gesellschaft",
+    "Geschäft",
+    "Gesicht"
+   ],
+   "answer": "Gesellschaft"
+  },
+  {
+   "type": "speak",
+   "q": "Sprich nach: Ich habe viel Erfahrung.",
+   "answer": "Ich habe viel Erfahrung"
+  }
+ ]
+}

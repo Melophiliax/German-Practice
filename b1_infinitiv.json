@@ -1,0 +1,85 @@
+{
+ "id": "b1_infinitiv",
+ "level": "B1",
+ "title": "Infinitiv mit zu, um…zu, damit",
+ "explanation": "um…zu (gleiches Subjekt, Zweck), damit (verschiedene Subjekte), (an)statt…zu, ohne…zu, zu + Infinitiv nach Adjektiven/Nomen/Verben (Es ist wichtig, …zu lernen). Trennbar: anzurufen.",
+ "questions": [
+  {
+   "type": "mc",
+   "q": "Ich lerne Deutsch, ___ in Deutschland zu arbeiten.",
+   "options": [
+    "um",
+    "damit",
+    "dass"
+   ],
+   "answer": "um",
+   "explain": ""
+  },
+  {
+   "type": "mc",
+   "q": "Ich erkläre es dir, ___ du es verstehst.",
+   "options": [
+    "damit",
+    "um",
+    "weil"
+   ],
+   "answer": "damit",
+   "explain": ""
+  },
+  {
+   "type": "fill",
+   "q": "Es ist wichtig, regelmäßig ___ lernen.",
+   "answer": "zu",
+   "explain": ""
+  },
+  {
+   "type": "fill",
+   "q": "Ich fange an, Deutsch ___ lernen.",
+   "answer": "zu",
+   "explain": ""
+  },
+  {
+   "type": "order",
+   "q": "Bilde den Satz.",
+   "words": [
+    "Er",
+    "geht",
+    "aus",
+    "dem",
+    "Haus",
+    "ohne",
+    "die",
+    "Tür",
+    "zu",
+    "schließen"
+   ],
+   "answer": "Er geht aus dem Haus ohne die Tür zu schließen",
+   "explain": ""
+  },
+  {
+   "type": "mc",
+   "q": "Statt ___ er arbeitet, schläft er.",
+   "options": [
+    "dass",
+    "zu",
+    "um"
+   ],
+   "answer": "dass",
+   "explain": ""
+  },
+  {
+   "type": "translate",
+   "q": "Übersetze: It is important to learn German.",
+   "answer": [
+    "Es ist wichtig, Deutsch zu lernen"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "fill",
+   "q": "Vergiss nicht, mich ___zurufen. (an-zu-rufen: tippe das Wort)",
+   "answer": "anzurufen",
+   "explain": ""
+  }
+ ]
+}

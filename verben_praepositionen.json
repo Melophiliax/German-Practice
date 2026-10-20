@@ -1,0 +1,60 @@
+{
+ "id": "b1_verben_praep",
+ "level": "B1",
+ "title": "Verben mit Präpositionen",
+ "explanation": "Feste Verb-Präposition-Kombinationen mit Kasus: warten auf + Akk., sich freuen auf/über + Akk., denken an + Akk., sich interessieren für + Akk., Angst haben vor + Dat., teilnehmen an + Dat.",
+ "questions": [
+  {
+   "type": "fill",
+   "q": "Ich warte ___ den Bus.",
+   "answer": "auf",
+   "explain": ""
+  },
+  {
+   "type": "fill",
+   "q": "Er interessiert sich ___ Musik.",
+   "answer": "für",
+   "explain": ""
+  },
+  {
+   "type": "fill",
+   "q": "Sie hat Angst ___ dem Hund.",
+   "answer": "vor",
+   "explain": ""
+  },
+  {
+   "type": "fill",
+   "q": "Wir nehmen ___ dem Kurs teil.",
+   "answer": "an",
+   "explain": ""
+  },
+  {
+   "type": "mc",
+   "q": "Ich freue mich ___ das Wochenende. (Zukunft)",
+   "options": [
+    "auf",
+    "über",
+    "an"
+   ],
+   "answer": "auf",
+   "explain": "auf = Zukunft, über = Gegenwart/Vergangenheit."
+  },
+  {
+   "type": "mc",
+   "q": "Ich denke oft ___ meine Familie.",
+   "options": [
+    "an",
+    "von",
+    "für"
+   ],
+   "answer": "an",
+   "explain": ""
+  },
+  {
+   "type": "fill",
+   "q": "Ich habe mich ___ den Kurs entschieden.",
+   "answer": "für",
+   "explain": ""
+  }
+ ]
+}

@@ -1,0 +1,67 @@
+{
+ "id": "a1_possessiv",
+ "level": "A1",
+ "title": "Possessivartikel & Negation",
+ "explanation": "mein, dein, sein, ihr, unser, euer, ihr/Ihr – Endungen wie ein/kein. nicht verneint Verb/Adjektiv/Satz, kein verneint Nomen mit unbestimmtem/ohne Artikel.",
+ "questions": [
+  {
+   "type": "fill",
+   "q": "Das ist Anna. ___ Bruder heißt Tom. (sie)",
+   "answer": "ihr",
+   "explain": ""
+  },
+  {
+   "type": "fill",
+   "q": "Ich liebe ___ Mutter. (ich, Akk. f.)",
+   "answer": "meine",
+   "explain": ""
+  },
+  {
+   "type": "mc",
+   "q": "Er hat ___ Auto verkauft. (er)",
+   "options": [
+    "sein",
+    "seine",
+    "ihr"
+   ],
+   "answer": "sein",
+   "explain": ""
+  },
+  {
+   "type": "mc",
+   "q": "Ich habe ___ Zeit.",
+   "options": [
+    "keine",
+    "nicht",
+    "kein"
+   ],
+   "answer": "keine",
+   "explain": "Zeit = feminin, Negation mit kein-."
+  },
+  {
+   "type": "mc",
+   "q": "Ich komme ___.",
+   "options": [
+    "nicht",
+    "kein",
+    "keine"
+   ],
+   "answer": "nicht",
+   "explain": "Verb verneinen → nicht."
+  },
+  {
+   "type": "fill",
+   "q": "Ich besuche ___ Eltern. (mein, Akk. Pl.)",
+   "answer": "meine",
+   "explain": ""
+  },
+  {
+   "type": "translate",
+   "q": "Übersetze: I do not have a car.",
+   "answer": [
+    "Ich habe kein Auto"
+   ],
+   "explain": ""
+  }
+ ]
+}

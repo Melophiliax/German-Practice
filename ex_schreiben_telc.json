@@ -1,0 +1,76 @@
+{
+ "id": "ex_schreiben_telc",
+ "level": "Prüfung",
+ "title": "telc Schriftlicher Ausdruck (Brief/E-Mail)",
+ "explanation": "telc B1: ein Brief/eine E-Mail (ca. 30 Min.) mit meist vier Leitpunkten – alle behandeln! Anrede, Einleitung, Leitpunkte, Schluss. Prüfe Struktur und Höflichkeit (du/Sie).",
+ "minutes": 30,
+ "ordered": true,
+ "questions": [
+  {
+   "type": "write",
+   "q": "Ein Freund hat Ihnen von seinem neuen Job erzählt. Schreiben Sie ihm: Gratulieren Sie; fragen Sie nach der Arbeit; erzählen Sie von Ihrem Alltag; laden Sie ihn zu einem Treffen ein.",
+   "hint": "Informeller Brief, ca. 80–100 Wörter",
+   "min": 80,
+   "checks": [
+    [
+     "Anrede",
+     "(lieber|liebe|hallo)"
+    ],
+    [
+     "Glückwunsch",
+     "(gratuliere|glückwunsch|herzlichen)"
+    ],
+    [
+     "Frage zur Arbeit",
+     "\\?"
+    ],
+    [
+     "Eigener Alltag",
+     "(ich arbeite|bei mir|mein alltag|ich lerne|ich habe)"
+    ],
+    [
+     "Einladung",
+     "(einladen|lade dich|treffen|komm|besuch)"
+    ],
+    [
+     "Gruß",
+     "(grüße|bis bald|dein|deine)"
+    ]
+   ],
+   "model": "Lieber Max,\nich gratuliere dir herzlich zu deinem neuen Job! Wie gefällt es dir bei der Firma? Hast du nette Kollegen? Bei mir ist alles wie immer: Ich arbeite viel und lerne abends Deutsch. Hast du am nächsten Wochenende Zeit? Ich möchte dich gern zum Essen einladen, dann kannst du mir alles erzählen. Melde dich bald!\nDeine Lisa"
+  },
+  {
+   "type": "write",
+   "q": "Sie wohnen in einem Mietshaus. Ihr Nachbar feiert oft laut. Schreiben Sie einen höflichen Brief: Beschreiben Sie das Problem; sagen Sie, wie Sie sich fühlen; machen Sie einen Vorschlag; bitten Sie um eine Antwort.",
+   "hint": "Formeller/halbformeller Brief, ca. 80–100 Wörter",
+   "min": 80,
+   "checks": [
+    [
+     "Anrede",
+     "(sehr geehrter|lieber|guten tag)"
+    ],
+    [
+     "Problem",
+     "(laut|lärm|musik|feier)"
+    ],
+    [
+     "Gefühl",
+     "(störe|stört|müde|schlafen|ärger|leider)"
+    ],
+    [
+     "Vorschlag",
+     "(vorschlag|könnten|wäre|bitte)"
+    ],
+    [
+     "Bitte um Antwort",
+     "(antwort|melden|schreiben sie|rückmeldung)"
+    ],
+    [
+     "Gruß",
+     "(freundlichen grüßen|grüße)"
+    ]
+   ],
+   "model": "Sehr geehrter Herr Bauer,\nleider muss ich Sie wegen eines Problems ansprechen. In den letzten Wochen war es an den Wochenenden bis spät in die Nacht sehr laut in Ihrer Wohnung. Ich kann dann nicht schlafen und bin am nächsten Tag müde. Wäre es möglich, dass Sie nach 22 Uhr die Musik leiser stellen? Ich bin gern bereit, mit Ihnen darüber zu sprechen. Bitte melden Sie sich bei mir.\nMit freundlichen Grüßen\nPeter Klein"
+  }
+ ]
+}

@@ -1,0 +1,61 @@
+{
+ "id": "b1_verbspez",
+ "level": "B1",
+ "title": "Wissen/kennen, lassen, brauchen zu",
+ "explanation": "wissen = Fakten, kennen = Personen/Orte. lassen: Ich lasse mir die Haare schneiden. Perfekt mit lassen: Ersatzinfinitiv. brauchen nicht zu = nicht müssen.",
+ "questions": [
+  {
+   "type": "mc",
+   "q": "Ich ___ den Mann nicht.",
+   "options": [
+    "kenne",
+    "weiß",
+    "kann"
+   ],
+   "answer": "kenne",
+   "explain": ""
+  },
+  {
+   "type": "mc",
+   "q": "Ich ___ nicht, wo er wohnt.",
+   "options": [
+    "weiß",
+    "kenne",
+    "kann"
+   ],
+   "answer": "weiß",
+   "explain": ""
+  },
+  {
+   "type": "mc",
+   "q": "Ich ___ mir die Haare schneiden. (Friseur)",
+   "options": [
+    "lasse",
+    "lässt",
+    "ließ"
+   ],
+   "answer": "lasse",
+   "explain": ""
+  },
+  {
+   "type": "fill",
+   "q": "Du brauchst nicht ___ kommen.",
+   "answer": "zu",
+   "explain": ""
+  },
+  {
+   "type": "fill",
+   "q": "Wir haben das Auto reparieren ___. (lassen)",
+   "answer": "lassen",
+   "explain": "Ersatzinfinitiv."
+  },
+  {
+   "type": "translate",
+   "q": "Übersetze: I had my hair cut.",
+   "answer": [
+    "Ich habe mir die Haare schneiden lassen"
+   ],
+   "explain": ""
+  }
+ ]
+}

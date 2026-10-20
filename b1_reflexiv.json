@@ -1,0 +1,65 @@
+{
+ "id": "b1_reflexiv",
+ "level": "B1",
+ "title": "Reflexive Verben",
+ "explanation": "sich freuen auf/über, sich interessieren für, sich treffen mit, sich ärgern über, sich erinnern an. Akkusativ: mich, dich, sich, uns, euch, sich. Mit Akkusativobjekt im Dativ: Ich wasche mir die Hände.",
+ "questions": [
+  {
+   "type": "fill",
+   "q": "Ich freue ___ auf das Wochenende.",
+   "answer": "mich",
+   "explain": ""
+  },
+  {
+   "type": "fill",
+   "q": "Er interessiert ___ für Politik.",
+   "answer": "sich",
+   "explain": ""
+  },
+  {
+   "type": "fill",
+   "q": "Wir treffen ___ um 8 Uhr.",
+   "answer": "uns",
+   "explain": ""
+  },
+  {
+   "type": "fill",
+   "q": "Ich wasche ___ die Hände.",
+   "answer": "mir",
+   "explain": "Akk.-Objekt vorhanden → Dativ."
+  },
+  {
+   "type": "mc",
+   "q": "Du musst ___ beeilen.",
+   "options": [
+    "dich",
+    "dir",
+    "sich"
+   ],
+   "answer": "dich",
+   "explain": ""
+  },
+  {
+   "type": "order",
+   "q": "Bilde den Satz.",
+   "words": [
+    "Ich",
+    "habe",
+    "mich",
+    "gestern",
+    "sehr",
+    "geärgert"
+   ],
+   "answer": "Ich habe mich gestern sehr geärgert",
+   "explain": ""
+  },
+  {
+   "type": "translate",
+   "q": "Übersetze: I am looking forward to the holidays.",
+   "answer": [
+    "Ich freue mich auf die Ferien"
+   ],
+   "explain": ""
+  }
+ ]
+}

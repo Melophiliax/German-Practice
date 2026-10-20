@@ -1,0 +1,77 @@
+{
+ "id": "b1_relativ",
+ "level": "B1",
+ "title": "Relativsätze (Nom./Akk./Dat./Gen.)",
+ "explanation": "Relativpronomen = Artikel, außer Dativ Pl. denen und Genitiv dessen/deren. Genus/Numerus vom Bezugswort, Kasus vom Verb im Relativsatz. Verb am Ende.",
+ "questions": [
+  {
+   "type": "fill",
+   "q": "Der Mann, ___ dort steht, ist mein Lehrer.",
+   "answer": "der",
+   "explain": "Nominativ m."
+  },
+  {
+   "type": "fill",
+   "q": "Das Buch, ___ ich lese, ist spannend.",
+   "answer": "das",
+   "explain": "Akkusativ n."
+  },
+  {
+   "type": "fill",
+   "q": "Die Frau, ___ ich helfe, ist nett.",
+   "answer": "der",
+   "explain": "helfen + Dativ, feminin."
+  },
+  {
+   "type": "fill",
+   "q": "Das Kind, ___ ich ein Geschenk gebe, freut sich.",
+   "answer": "dem",
+   "explain": "Dativ n."
+  },
+  {
+   "type": "fill",
+   "q": "Der Mann, ___ Auto dort steht, ist Arzt.",
+   "answer": "dessen",
+   "explain": "Genitiv m."
+  },
+  {
+   "type": "mc",
+   "q": "Die Stadt, in ___ ich wohne, ist klein.",
+   "options": [
+    "der",
+    "die",
+    "den"
+   ],
+   "answer": "der",
+   "explain": "in + Dativ (Wo?)."
+  },
+  {
+   "type": "mc",
+   "q": "Die Frau, ___ ich anrufe, heißt Lisa.",
+   "options": [
+    "die",
+    "der",
+    "den"
+   ],
+   "answer": "die",
+   "explain": "Akkusativ f."
+  },
+  {
+   "type": "order",
+   "q": "Bilde den Satz.",
+   "words": [
+    "Das",
+    "ist",
+    "der",
+    "Mann",
+    "den",
+    "ich",
+    "gestern",
+    "gesehen",
+    "habe"
+   ],
+   "answer": "Das ist der Mann den ich gestern gesehen habe",
+   "explain": ""
+  }
+ ]
+}

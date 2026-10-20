@@ -1,0 +1,58 @@
+{
+ "id": "ex_lesen5",
+ "level": "Prüfung",
+ "title": "Goethe Lesen Teil 5: Regeln & Hausordnung",
+ "explanation": "Lies Regeln/Informationen genau und beantworte die Fragen (a/b/c).",
+ "minutes": 8,
+ "ordered": true,
+ "questions": [
+  {
+   "type": "mc",
+   "q": "Wann darf man nicht waschen?",
+   "options": [
+    "zwischen 22 und 6 Uhr",
+    "nur sonntags",
+    "nach 18 Uhr"
+   ],
+   "answer": "zwischen 22 und 6 Uhr",
+   "explain": "",
+   "passage": "Hausordnung – Gartenstraße 12\n1. Von 22 bis 6 Uhr ist Ruhezeit. Musik und Waschmaschine sind dann nicht erlaubt.\n2. Fahrräder bitte im Fahrradkeller abstellen, nicht im Hausflur.\n3. Müll bitte trennen; die gelbe Tonne ist für Plastik.\n4. Das Treppenhaus wird abwechselnd gereinigt; der Plan hängt an der Eingangstür.\n5. Besucher dürfen im Hof parken, aber höchstens zwei Stunden."
+  },
+  {
+   "type": "mc",
+   "q": "Wo sollen Fahrräder stehen?",
+   "options": [
+    "im Fahrradkeller",
+    "im Hausflur",
+    "im Hof"
+   ],
+   "answer": "im Fahrradkeller",
+   "explain": "",
+   "passage": "Hausordnung – Gartenstraße 12\n1. Von 22 bis 6 Uhr ist Ruhezeit. Musik und Waschmaschine sind dann nicht erlaubt.\n2. Fahrräder bitte im Fahrradkeller abstellen, nicht im Hausflur.\n3. Müll bitte trennen; die gelbe Tonne ist für Plastik.\n4. Das Treppenhaus wird abwechselnd gereinigt; der Plan hängt an der Eingangstür.\n5. Besucher dürfen im Hof parken, aber höchstens zwei Stunden."
+  },
+  {
+   "type": "mc",
+   "q": "Was gehört in die gelbe Tonne?",
+   "options": [
+    "Plastik",
+    "Papier",
+    "Glas"
+   ],
+   "answer": "Plastik",
+   "explain": "",
+   "passage": "Hausordnung – Gartenstraße 12\n1. Von 22 bis 6 Uhr ist Ruhezeit. Musik und Waschmaschine sind dann nicht erlaubt.\n2. Fahrräder bitte im Fahrradkeller abstellen, nicht im Hausflur.\n3. Müll bitte trennen; die gelbe Tonne ist für Plastik.\n4. Das Treppenhaus wird abwechselnd gereinigt; der Plan hängt an der Eingangstür.\n5. Besucher dürfen im Hof parken, aber höchstens zwei Stunden."
+  },
+  {
+   "type": "mc",
+   "q": "Wie lange dürfen Besucher im Hof parken?",
+   "options": [
+    "höchstens zwei Stunden",
+    "den ganzen Tag",
+    "gar nicht"
+   ],
+   "answer": "höchstens zwei Stunden",
+   "explain": "",
+   "passage": "Hausordnung – Gartenstraße 12\n1. Von 22 bis 6 Uhr ist Ruhezeit. Musik und Waschmaschine sind dann nicht erlaubt.\n2. Fahrräder bitte im Fahrradkeller abstellen, nicht im Hausflur.\n3. Müll bitte trennen; die gelbe Tonne ist für Plastik.\n4. Das Treppenhaus wird abwechselnd gereinigt; der Plan hängt an der Eingangstür.\n5. Besucher dürfen im Hof parken, aber höchstens zwei Stunden."
+  }
+ ]
+}

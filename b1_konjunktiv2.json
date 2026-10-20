@@ -1,0 +1,72 @@
+{
+ "id": "b1_konjunktiv2",
+ "level": "B1",
+ "title": "Konjunktiv II",
+ "explanation": "Wünsche, Höflichkeit, irreale Bedingungen: hätte, wäre, würde + Infinitiv, könnte. Vergangenheit: hätte/wäre + Partizip II.",
+ "questions": [
+  {
+   "type": "fill",
+   "q": "Wenn ich Zeit ___, würde ich reisen. (haben)",
+   "answer": "hätte",
+   "explain": ""
+  },
+  {
+   "type": "fill",
+   "q": "Wenn ich reich ___, kaufte ich ein Haus. (sein)",
+   "answer": "wäre",
+   "explain": ""
+  },
+  {
+   "type": "mc",
+   "q": "___ Sie mir bitte helfen?",
+   "options": [
+    "Könnten",
+    "Können",
+    "Konnten"
+   ],
+   "answer": "Könnten",
+   "explain": "Höflichkeit."
+  },
+  {
+   "type": "mc",
+   "q": "Ich wünschte, ich ___ mehr Zeit.",
+   "options": [
+    "hätte",
+    "habe",
+    "hatte"
+   ],
+   "answer": "hätte",
+   "explain": ""
+  },
+  {
+   "type": "translate",
+   "q": "Übersetze: I would like a coffee.",
+   "answer": [
+    "Ich hätte gern einen Kaffee",
+    "Ich möchte einen Kaffee"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "order",
+   "q": "Bilde den Satz.",
+   "words": [
+    "Wenn",
+    "ich",
+    "Geld",
+    "hätte",
+    "würde",
+    "ich",
+    "reisen"
+   ],
+   "answer": "Wenn ich Geld hätte würde ich reisen",
+   "explain": ""
+  },
+  {
+   "type": "fill",
+   "q": "Wenn er mehr gelernt ___, hätte er die Prüfung bestanden.",
+   "answer": "hätte",
+   "explain": "Irreal in der Vergangenheit."
+  }
+ ]
+}

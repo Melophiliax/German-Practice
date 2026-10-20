@@ -1,0 +1,54 @@
+{
+ "id": "ex_lesen4",
+ "level": "Prüfung",
+ "title": "Goethe Lesen Teil 4: Meinungen (Ja/Nein)",
+ "explanation": "Forum zum Thema „Homeoffice“. Entscheide: Stimmt die Aussage für die Person (Ja) oder nicht (Nein)?",
+ "minutes": 10,
+ "ordered": true,
+ "questions": [
+  {
+   "type": "mc",
+   "q": "Anna spart durch Homeoffice Zeit und Geld.",
+   "options": [
+    "Ja",
+    "Nein"
+   ],
+   "answer": "Ja",
+   "explain": "",
+   "passage": "Anna: Ich arbeite seit zwei Jahren von zu Hause und möchte nicht mehr ins Büro. Ich spare Zeit und Geld und kann mich besser konzentrieren.\nBen: Mir fehlen die Kollegen. Zu Hause bin ich oft allein und arbeite abends zu lang. Ich gehe lieber ins Büro.\nClara: Am besten ist eine Mischung: zwei Tage zu Hause, drei im Büro. So hat man beides.\nDavid: Homeoffice ist nichts für mich. Mit den Kindern im Haus kann ich nicht arbeiten."
+  },
+  {
+   "type": "mc",
+   "q": "Ben fühlt sich zu Hause wohler als im Büro.",
+   "options": [
+    "Ja",
+    "Nein"
+   ],
+   "answer": "Nein",
+   "explain": "",
+   "passage": "Anna: Ich arbeite seit zwei Jahren von zu Hause und möchte nicht mehr ins Büro. Ich spare Zeit und Geld und kann mich besser konzentrieren.\nBen: Mir fehlen die Kollegen. Zu Hause bin ich oft allein und arbeite abends zu lang. Ich gehe lieber ins Büro.\nClara: Am besten ist eine Mischung: zwei Tage zu Hause, drei im Büro. So hat man beides.\nDavid: Homeoffice ist nichts für mich. Mit den Kindern im Haus kann ich nicht arbeiten."
+  },
+  {
+   "type": "mc",
+   "q": "Clara findet eine Kombination aus Büro und Homeoffice gut.",
+   "options": [
+    "Ja",
+    "Nein"
+   ],
+   "answer": "Ja",
+   "explain": "",
+   "passage": "Anna: Ich arbeite seit zwei Jahren von zu Hause und möchte nicht mehr ins Büro. Ich spare Zeit und Geld und kann mich besser konzentrieren.\nBen: Mir fehlen die Kollegen. Zu Hause bin ich oft allein und arbeite abends zu lang. Ich gehe lieber ins Büro.\nClara: Am besten ist eine Mischung: zwei Tage zu Hause, drei im Büro. So hat man beides.\nDavid: Homeoffice ist nichts für mich. Mit den Kindern im Haus kann ich nicht arbeiten."
+  },
+  {
+   "type": "mc",
+   "q": "David lehnt Homeoffice aus familiären Gründen ab.",
+   "options": [
+    "Ja",
+    "Nein"
+   ],
+   "answer": "Ja",
+   "explain": "",
+   "passage": "Anna: Ich arbeite seit zwei Jahren von zu Hause und möchte nicht mehr ins Büro. Ich spare Zeit und Geld und kann mich besser konzentrieren.\nBen: Mir fehlen die Kollegen. Zu Hause bin ich oft allein und arbeite abends zu lang. Ich gehe lieber ins Büro.\nClara: Am besten ist eine Mischung: zwei Tage zu Hause, drei im Büro. So hat man beides.\nDavid: Homeoffice ist nichts für mich. Mit den Kindern im Haus kann ich nicht arbeiten."
+  }
+ ]
+}

@@ -1,0 +1,74 @@
+{
+ "id": "v_gesundheit",
+ "level": "B1",
+ "title": "Wortschatz: Gesundheit",
+ "explanation": "Goethe-B1-Wortschatz zum Thema. Lerne Nomen immer mit Artikel und Plural.",
+ "questions": [
+  {
+   "type": "mc",
+   "q": "Ich möchte ___ Termin beim Arzt vereinbaren.",
+   "options": [
+    "einen",
+    "eine",
+    "ein"
+   ],
+   "answer": "einen",
+   "explain": ""
+  },
+  {
+   "type": "mc",
+   "q": "Ein „Rezept“ beim Arzt ist:",
+   "options": [
+    "prescription",
+    "appointment",
+    "bill"
+   ],
+   "answer": "prescription",
+   "explain": ""
+  },
+  {
+   "type": "mc",
+   "q": "___ Krankenkasse",
+   "options": [
+    "die",
+    "der",
+    "das"
+   ],
+   "answer": "die",
+   "explain": ""
+  },
+  {
+   "type": "mc",
+   "q": "Er hat sich das Bein ___.",
+   "options": [
+    "gebrochen",
+    "gebracht",
+    "gebrechen"
+   ],
+   "answer": "gebrochen",
+   "explain": ""
+  },
+  {
+   "type": "mc",
+   "q": "Nebenwirkung bedeutet:",
+   "options": [
+    "side effect",
+    "dosage",
+    "symptom"
+   ],
+   "answer": "side effect",
+   "explain": ""
+  },
+  {
+   "type": "mc",
+   "q": "Ich fühle mich nicht wohl bedeutet:",
+   "options": [
+    "I don't feel well",
+    "I'm hungry",
+    "I'm lost"
+   ],
+   "answer": "I don't feel well",
+   "explain": ""
+  }
+ ]
+}

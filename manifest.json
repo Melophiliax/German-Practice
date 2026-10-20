@@ -1,0 +1,408 @@
+[
+ {
+  "id": "a1_articles",
+  "level": "A1",
+  "title": "Nomen & Artikel",
+  "file": "topics/a1_articles.json",
+  "group": "Grammatik"
+ },
+ {
+  "id": "a1_verbs",
+  "level": "A1",
+  "title": "Verbkonjugation (Präsens)",
+  "file": "topics/a1_verbs.json",
+  "group": "Grammatik"
+ },
+ {
+  "id": "a1_cases",
+  "level": "A1",
+  "title": "Nominativ, Akkusativ & Pronomen",
+  "file": "topics/a1_cases.json",
+  "group": "Grammatik"
+ },
+ {
+  "id": "a1_syntax",
+  "level": "A1",
+  "title": "Satzbau: W-Fragen & Ja/Nein",
+  "file": "topics/a1_syntax.json",
+  "group": "Grammatik"
+ },
+ {
+  "id": "a1_modals",
+  "level": "A1",
+  "title": "Modalverben",
+  "file": "topics/a1_modals.json",
+  "group": "Grammatik"
+ },
+ {
+  "id": "a1_prepositions",
+  "level": "A1",
+  "title": "Grundlegende Präpositionen",
+  "file": "topics/a1_prepositions.json",
+  "group": "Grammatik"
+ },
+ {
+  "id": "a1_possessiv",
+  "level": "A1",
+  "group": "Grammatik",
+  "title": "Possessivartikel & Negation",
+  "file": "topics/a1_possessiv.json"
+ },
+ {
+  "id": "a1_zahlen",
+  "level": "A1",
+  "group": "Grammatik",
+  "title": "Zahlen, Uhrzeit, Datum",
+  "file": "topics/a1_zahlen.json"
+ },
+ {
+  "id": "a2_dativ",
+  "level": "A2",
+  "title": "Dativ & Wechselpräpositionen",
+  "file": "topics/a2_dativ.json",
+  "group": "Grammatik"
+ },
+ {
+  "id": "a2_tekamolo",
+  "level": "A2",
+  "title": "TeKaMoLo & Satzstellung",
+  "file": "topics/a2_tekamolo.json",
+  "group": "Grammatik"
+ },
+ {
+  "id": "a2_perfekt",
+  "level": "A2",
+  "title": "Perfekt",
+  "file": "topics/a2_perfekt.json",
+  "group": "Grammatik"
+ },
+ {
+  "id": "a2_praeteritum",
+  "level": "A2",
+  "title": "Präteritum: sein, haben, Modalverben",
+  "file": "topics/a2_praeteritum.json",
+  "group": "Grammatik"
+ },
+ {
+  "id": "a2_comparison",
+  "level": "A2",
+  "title": "Komparativ & Superlativ",
+  "file": "topics/a2_comparison.json",
+  "group": "Grammatik"
+ },
+ {
+  "id": "a2_adjektive",
+  "level": "A2",
+  "title": "Adjektivdeklination",
+  "file": "topics/a2_adjektive.json",
+  "group": "Grammatik"
+ },
+ {
+  "id": "a2_nebensaetze",
+  "level": "A2",
+  "title": "Nebensätze: weil, dass, wenn, ob, obwohl",
+  "file": "topics/a2_nebensaetze.json",
+  "group": "Grammatik"
+ },
+ {
+  "id": "a2_imperativ",
+  "level": "A2",
+  "group": "Grammatik",
+  "title": "Imperativ",
+  "file": "topics/a2_imperativ.json"
+ },
+ {
+  "id": "a2_pronomen",
+  "level": "A2",
+  "group": "Grammatik",
+  "title": "Personalpronomen im Dativ",
+  "file": "topics/a2_pronomen.json"
+ },
+ {
+  "id": "b1_genitiv",
+  "level": "B1",
+  "title": "Genitiv",
+  "file": "topics/b1_genitiv.json",
+  "group": "Grammatik"
+ },
+ {
+  "id": "b1_passiv",
+  "level": "B1",
+  "title": "Passiv (Präsens & Präteritum)",
+  "file": "topics/b1_passiv.json",
+  "group": "Grammatik"
+ },
+ {
+  "id": "b1_konjunktiv2",
+  "level": "B1",
+  "title": "Konjunktiv II",
+  "file": "topics/b1_konjunktiv2.json",
+  "group": "Grammatik"
+ },
+ {
+  "id": "b1_relativ",
+  "level": "B1",
+  "title": "Relativsätze (Nom./Akk./Dat./Gen.)",
+  "file": "topics/b1_relativ.json",
+  "group": "Grammatik"
+ },
+ {
+  "id": "b1_indirekt",
+  "level": "B1",
+  "title": "Indirekte Rede (Konjunktiv I/II)",
+  "file": "topics/b1_indirekt.json",
+  "group": "Grammatik"
+ },
+ {
+  "id": "b1_nomenverb",
+  "level": "B1",
+  "title": "Nomen-Verb-Verbindungen",
+  "file": "topics/b1_nomenverb.json",
+  "group": "Grammatik"
+ },
+ {
+  "id": "b1_konnektoren",
+  "level": "B1",
+  "group": "Grammatik",
+  "title": "Konnektoren (deshalb, trotzdem, sondern …)",
+  "file": "topics/b1_konnektoren.json"
+ },
+ {
+  "id": "b1_temporal",
+  "level": "B1",
+  "group": "Grammatik",
+  "title": "Temporalsätze (als, wenn, bevor, nachdem …)",
+  "file": "topics/b1_temporal.json"
+ },
+ {
+  "id": "b1_infinitiv",
+  "level": "B1",
+  "group": "Grammatik",
+  "title": "Infinitiv mit zu, um…zu, damit",
+  "file": "topics/b1_infinitiv.json"
+ },
+ {
+  "id": "b1_plusqu_futur",
+  "level": "B1",
+  "group": "Grammatik",
+  "title": "Plusquamperfekt & Futur I",
+  "file": "topics/b1_plusqu_futur.json"
+ },
+ {
+  "id": "b1_praeteritum",
+  "level": "B1",
+  "group": "Grammatik",
+  "title": "Präteritum (starke & gemischte Verben)",
+  "file": "topics/b1_praeteritum.json"
+ },
+ {
+  "id": "b1_reflexiv",
+  "level": "B1",
+  "group": "Grammatik",
+  "title": "Reflexive Verben",
+  "file": "topics/b1_reflexiv.json"
+ },
+ {
+  "id": "b1_dawo",
+  "level": "B1",
+  "group": "Grammatik",
+  "title": "Da-/Wo-Komposita",
+  "file": "topics/b1_dawo.json"
+ },
+ {
+  "id": "b1_partizip",
+  "level": "B1",
+  "group": "Grammatik",
+  "title": "Partizip I & II als Adjektiv",
+  "file": "topics/b1_partizip.json"
+ },
+ {
+  "id": "b1_passiv2",
+  "level": "B1",
+  "group": "Grammatik",
+  "title": "Passiv erweitert (Modalverben, Perfekt, Zustand)",
+  "file": "topics/b1_passiv2.json"
+ },
+ {
+  "id": "b1_konj2_modal",
+  "level": "B1",
+  "group": "Grammatik",
+  "title": "Konjunktiv II: Rat, Höflichkeit, Wunsch",
+  "file": "topics/b1_konj2_modal.json"
+ },
+ {
+  "id": "b1_adjektiv2",
+  "level": "B1",
+  "group": "Grammatik",
+  "title": "Adjektivdeklination vollständig",
+  "file": "topics/b1_adjektiv2.json"
+ },
+ {
+  "id": "b1_verbspez",
+  "level": "B1",
+  "group": "Grammatik",
+  "title": "Wissen/kennen, lassen, brauchen zu",
+  "file": "topics/b1_verbspez.json"
+ },
+ {
+  "id": "b1_verben_praep",
+  "level": "B1",
+  "title": "Verben mit Präpositionen",
+  "file": "vocabulary/verben_praepositionen.json",
+  "group": "Wortschatz"
+ },
+ {
+  "id": "b1_vocab",
+  "level": "B1",
+  "title": "Goethe B1 Wortschatz",
+  "file": "vocabulary/goethe_b1.json",
+  "group": "Wortschatz"
+ },
+ {
+  "id": "v_arbeit",
+  "level": "B1",
+  "group": "Wortschatz",
+  "title": "Wortschatz: Arbeit & Beruf",
+  "file": "vocabulary/v_arbeit.json"
+ },
+ {
+  "id": "v_wohnen",
+  "level": "B1",
+  "group": "Wortschatz",
+  "title": "Wortschatz: Wohnen",
+  "file": "vocabulary/v_wohnen.json"
+ },
+ {
+  "id": "v_gesundheit",
+  "level": "B1",
+  "group": "Wortschatz",
+  "title": "Wortschatz: Gesundheit",
+  "file": "vocabulary/v_gesundheit.json"
+ },
+ {
+  "id": "v_reisen",
+  "level": "B1",
+  "group": "Wortschatz",
+  "title": "Wortschatz: Reisen & Verkehr",
+  "file": "vocabulary/v_reisen.json"
+ },
+ {
+  "id": "v_bildung",
+  "level": "B1",
+  "group": "Wortschatz",
+  "title": "Wortschatz: Bildung & Ausbildung",
+  "file": "vocabulary/v_bildung.json"
+ },
+ {
+  "id": "v_umwelt",
+  "level": "B1",
+  "group": "Wortschatz",
+  "title": "Wortschatz: Umwelt & Natur",
+  "file": "vocabulary/v_umwelt.json"
+ },
+ {
+  "id": "v_medien",
+  "level": "B1",
+  "group": "Wortschatz",
+  "title": "Wortschatz: Medien & Freizeit",
+  "file": "vocabulary/v_medien.json"
+ },
+ {
+  "id": "v_einkaufen",
+  "level": "B1",
+  "group": "Wortschatz",
+  "title": "Wortschatz: Einkaufen & Behörden",
+  "file": "vocabulary/v_einkaufen.json"
+ },
+ {
+  "id": "v_gefuehle",
+  "level": "B1",
+  "group": "Wortschatz",
+  "title": "Wortschatz: Beziehungen & Gefühle",
+  "file": "vocabulary/v_gefuehle.json"
+ },
+ {
+  "id": "v_redemittel",
+  "level": "B1",
+  "group": "Wortschatz",
+  "title": "Wortschatz: Wortbildung & Redemittel",
+  "file": "vocabulary/v_redemittel.json"
+ },
+ {
+  "id": "ex_lesen1",
+  "level": "Prüfung",
+  "group": "Goethe B1",
+  "title": "Goethe Lesen Teil 1: E-Mail (Richtig/Falsch)",
+  "file": "topics/ex_lesen1.json"
+ },
+ {
+  "id": "ex_lesen2",
+  "level": "Prüfung",
+  "group": "Goethe B1",
+  "title": "Goethe Lesen Teil 2: Zeitungstexte (a/b/c)",
+  "file": "topics/ex_lesen2.json"
+ },
+ {
+  "id": "ex_lesen3",
+  "level": "Prüfung",
+  "group": "Goethe B1",
+  "title": "Goethe Lesen Teil 3: Anzeigen zuordnen",
+  "file": "topics/ex_lesen3.json"
+ },
+ {
+  "id": "ex_lesen4",
+  "level": "Prüfung",
+  "group": "Goethe B1",
+  "title": "Goethe Lesen Teil 4: Meinungen (Ja/Nein)",
+  "file": "topics/ex_lesen4.json"
+ },
+ {
+  "id": "ex_lesen5",
+  "level": "Prüfung",
+  "group": "Goethe B1",
+  "title": "Goethe Lesen Teil 5: Regeln & Hausordnung",
+  "file": "topics/ex_lesen5.json"
+ },
+ {
+  "id": "ex_hoeren",
+  "level": "Prüfung",
+  "group": "Goethe B1",
+  "title": "Hören Teil 1–4 (Goethe) / Hörverstehen (telc)",
+  "file": "topics/ex_hoeren.json"
+ },
+ {
+  "id": "ex_schreiben_goethe",
+  "level": "Prüfung",
+  "group": "Goethe B1",
+  "title": "Goethe Schreiben Teil 1–3",
+  "file": "topics/ex_schreiben_goethe.json"
+ },
+ {
+  "id": "ex_sprechen_goethe",
+  "level": "Prüfung",
+  "group": "Goethe B1",
+  "title": "Goethe Sprechen Teil 1–3",
+  "file": "topics/ex_sprechen_goethe.json"
+ },
+ {
+  "id": "ex_sprachbausteine",
+  "level": "Prüfung",
+  "group": "telc B1",
+  "title": "telc Sprachbausteine (Grammatik & Wortschatz)",
+  "file": "topics/ex_sprachbausteine.json"
+ },
+ {
+  "id": "ex_schreiben_telc",
+  "level": "Prüfung",
+  "group": "telc B1",
+  "title": "telc Schriftlicher Ausdruck (Brief/E-Mail)",
+  "file": "topics/ex_schreiben_telc.json"
+ },
+ {
+  "id": "ex_sprechen_telc",
+  "level": "Prüfung",
+  "group": "telc B1",
+  "title": "telc Mündlicher Ausdruck (3 Teile)",
+  "file": "topics/ex_sprechen_telc.json"
+ }
+]
