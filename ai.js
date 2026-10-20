@@ -11,8 +11,11 @@ async function gem(contents,{json=false,system=''}={}){
   const body={contents,generationConfig:{temperature:json?1:.4}};
   if(json)body.generationConfig.responseMimeType='application/json';
   if(system)body.systemInstruction={parts:[{text:system}]};
-  const r=await fetch(`https://generativelanguage.googleapis.com/v1beta/models/${encodeURIComponent(G.model)}:generateContent`,
-    {method:'POST',headers:{'Content-Type':'application/json','x-goog-api-key':G.key},body:JSON.stringify(body)});
+  const ac=new AbortController(),to=setTimeout(()=>ac.abort(),30000);let r;
+  try{r=await fetch(`https://generativelanguage.googleapis.com/v1beta/models/${encodeURIComponent(G.model)}:generateContent`,
+    {method:'POST',signal:ac.signal,headers:{'Content-Type':'application/json','x-goog-api-key':G.key},body:JSON.stringify(body)})}
+  catch(e){throw new Error(e.name==='AbortError'?'Zeitüberschreitung (30 s) – Internet prüfen.':'Anfrage blockiert ('+e.message+'). Prüfe Internet, Adblocker/VPN und ob der Key auf deine Website eingeschränkt ist.')}
+  finally{clearTimeout(to)}
   const j=await r.json().catch(()=>({}));
   if(!r.ok)throw new Error(j.error?.message||('HTTP '+r.status));
   return(j.candidates?.[0]?.content?.parts||[]).map(p=>p.text||'').join('');
@@ -38,7 +41,7 @@ const FORMAT=`Formate (genau so, Feldnamen exakt):
 {"type":"order","q":"Bilde den Satz.","words":["Wort1","Wort2","..."],"answer":"Satz in richtiger Reihenfolge","explain":"..."}
 Antworte NUR mit einem JSON-Array.`;
 const lvl=t=>t.level==='Prüfung'?'B1':t.level;
-function prompt(t,d){
+function genPrompt(t,d){
   const seen=[...d.questions,...(B[t.id]||[])].map(q=>q.q).slice(-40);
   return `Du bist Prüfer für Goethe-Zertifikat/telc. Erstelle 8 NEUE, korrekte Übungsaufgaben für Deutschlernende, Niveau ${lvl(t)}, Thema: "${d.title}". Inhalt/Regeln: ${d.explanation}
 ${t.group==='Wortschatz'?'Fokus: NEUE, prüfungsrelevante Wörter der Goethe-B1-Wortliste (Artikel, Plural, Bedeutung, Kollokationen); keine Wörter wiederholen, die schon vorkamen.':''}
@@ -76,7 +79,7 @@ async function fill(id,auto){
       Q={id,qs,i:0,ok:0,min:d.minutes,exam:true,ai:1};
       app.innerHTML=`<h1>Neuer Prüfungssatz</h1><p>${qs.length} frische Aufgaben im Stil „${esc(d.title)}“. Zählt nicht für den Fortschritt.</p><button class=go onclick="begin()">Starten</button>`;
     }else{
-      const qs=await aiQs(prompt(t,d)),bank=B[id]=B[id]||[],have=new Set([...bank,...d.questions].map(kq));let n=0;
+      const qs=await aiQs(genPrompt(t,d)),bank=B[id]=B[id]||[],have=new Set([...bank,...d.questions].map(kq));let n=0;
       qs.forEach(q=>{if(!have.has(kq(q))){bank.push(q);have.add(kq(q));n++}});
       B[id]=bank.slice(-200);saveB();st(`✨ ${n} neue Aufgaben hinzugefügt (Bank: ${B[id].length}).`);
     }
@@ -116,9 +119,24 @@ function settings(){
   app.innerHTML=`<h1>Einstellungen</h1><p>Gemini API-Key (aus Google AI Studio). Er wird <b>nur in diesem Browser</b> gespeichert, nicht im GitHub-Repo.</p>
 <input id=gk type=password autocomplete=off placeholder="API-Key" value="${esc(G.key)}"><input id=gm value="${esc(G.model)}" aria-label="Modell">
 <label style="display:flex;gap:8px;align-items:center;margin:8px 0;font-family:system-ui"><input id=ga type=checkbox style="width:auto;min-height:0" ${G.auto?'checked':''}> Neue Aufgaben automatisch nachladen</label>
-<button class=go onclick="saveSettings()">Speichern</button><button class=sec onclick="testG()">Verbindung testen</button><p id=gs class=tag></p>
+<button class=go onclick="saveSettings()">Speichern</button><button class=sec onclick="testG()">Verbindung testen</button><p id=gs class=tag style="white-space:pre-wrap;font-size:15px"></p>
 <h4>Sicherheit</h4><p class=tag>Jeder, der deinen Browser benutzt, kann den Key sehen. Beschränke ihn in der Google-Konsole auf deine Website (HTTP-Referrer <code>https://DEIN-NAME.github.io/*</code>) und setze ein Kontingent-Limit. Aufgaben und Fragen werden an Google gesendet.</p>
 <button class=sec onclick="B={};saveB();$('#gs').textContent='KI-Aufgaben gelöscht.'">KI-Aufgaben löschen</button><button onclick="home()">Zurück</button>`;
 }
 function saveSettings(){G={key:$('#gk').value.trim(),model:$('#gm').value.trim()||'gemini-3.8-flash',auto:$('#ga').checked};localStorage.setItem(GK,JSON.stringify(G));$('#gs').textContent='Gespeichert.'}
-async function testG(){saveSettings();$('#gs').textContent='Teste …';try{const a=await gem([{role:'user',parts:[{text:'Antworte nur mit: OK'}]}]);$('#gs').textContent='✔ Verbunden: '+a.trim().slice(0,40)}catch(e){$('#gs').textContent='✘ '+e.message}}
+async function testG(){
+  const st=m=>{const e=$('#gs');if(e)e.textContent=m};
+  try{
+    saveSettings();st('⏳ Teste Verbindung …');
+    if(!G.key)return st('✘ Bitte zuerst den API-Key einfügen.');
+    const a=await gem([{role:'user',parts:[{text:'Antworte nur mit: OK'}]}]);
+    st('✔ Verbunden ('+G.model+'): '+(a.trim().slice(0,40)||'leere Antwort'));
+  }catch(e){
+    st('✘ '+e.message);
+    try{ /* verfügbare Modelle anzeigen, falls der Modellname das Problem ist */
+      const r=await fetch('https://generativelanguage.googleapis.com/v1beta/models?pageSize=100',{headers:{'x-goog-api-key':G.key}}),j=await r.json();
+      const n=(j.models||[]).filter(m=>(m.supportedGenerationMethods||[]).includes('generateContent')&&/flash/.test(m.name)).map(m=>m.name.replace('models/','')).slice(0,8);
+      if(n.length)st('✘ '+e.message+'\nVerfügbare Modelle (in das Modellfeld eintragen): '+n.join(', '));
+    }catch(_){}
+  }
+}
